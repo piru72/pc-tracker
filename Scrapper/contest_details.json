@@ -1,0 +1,710 @@
+[
+    {
+        "name": "CUET Inter University Codestorm 1.0",
+        "date": "2024-01-26",
+        "platform": "Toph",
+        "url": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+        "standings": [
+            {
+                "Ranking": "1",
+                "Team Name": "BRACU_Crows",
+                "University": "BRAC University",
+                "Solved": "9",
+                "Penalty": "1383"
+            },
+            {
+                "Ranking": "2",
+                "Team Name": "IOI1",
+                "University": "IOI",
+                "Solved": "8",
+                "Penalty": "1080"
+            },
+            {
+                "Ranking": "3",
+                "Team Name": "SUST_GuessForces",
+                "University": "Shahjalal University of Science and Technology (SUST)",
+                "Solved": "8",
+                "Penalty": "1204"
+            },
+            {
+                "Ranking": "4",
+                "Team Name": "BUET_Nightfall",
+                "University": "Bangladesh University of Engineering and Technology",
+                "Solved": "7",
+                "Penalty": "1004"
+            },
+            {
+                "Ranking": "5",
+                "Team Name": "RU_NowOrNever",
+                "University": "University of Rajshahi",
+                "Solved": "6",
+                "Penalty": "709"
+            },
+            {
+                "Ranking": "6",
+                "Team Name": "SUST_SnackAttack",
+                "University": "Shahjalal University of Science and Technology",
+                "Solved": "6",
+                "Penalty": "872"
+            },
+            {
+                "Ranking": "7",
+                "Team Name": "BUET_Twilight",
+                "University": "Bangladesh University of Engineering and Technology",
+                "Solved": "6",
+                "Penalty": "919"
+            },
+            {
+                "Ranking": "8",
+                "Team Name": "Buet_Lost_Sailors",
+                "University": "Bangladesh University of Engineering and Technology",
+                "Solved": "6",
+                "Penalty": "951"
+            },
+            {
+                "Ranking": "9",
+                "Team Name": "RUET_Travelling_Salesmen",
+                "University": "Rajshahi University of Engineering & Technology",
+                "Solved": "6",
+                "Penalty": "954"
+            },
+            {
+                "Ranking": "10",
+                "Team Name": "EWU_Constant_Factor",
+                "University": "East West University",
+                "Solved": "6",
+                "Penalty": "999"
+            },
+            {
+                "Ranking": "11",
+                "Team Name": "IUT_Shongshoptok",
+                "University": "Islamic University of Technology",
+                "Solved": "5",
+                "Penalty": "659"
+            },
+            {
+                "Ranking": "12",
+                "Team Name": "SUST_Late_For_Registration",
+                "University": "Shahjalal University of Science and Technology",
+                "Solved": "5",
+                "Penalty": "763"
+            },
+            {
+                "Ranking": "13",
+                "Team Name": "AUST_RedX",
+                "University": "Ahsanullah University of Science and Technology",
+                "Solved": "5",
+                "Penalty": "784"
+            },
+            {
+                "Ranking": "14",
+                "Team Name": "Domain_Expansion",
+                "University": "Chittagong University of Engineering and Technology",
+                "Solved": "5",
+                "Penalty": "908"
+            },
+            {
+                "Ranking": "15",
+                "Team Name": "DU_Void",
+                "University": "University of Dhaka",
+                "Solved": "5",
+                "Penalty": "1098"
+            },
+            {
+                "Ranking": "16",
+                "Team Name": "RU_SFS-2.0",
+                "University": "University of Rajshahi",
+                "Solved": "5",
+                "Penalty": "1116"
+            },
+            {
+                "Ranking": "17",
+                "Team Name": "MBSTU_Novatos",
+                "University": "Mawlana Bhashani Science & Technology University",
+                "Solved": "5",
+                "Penalty": "1150"
+            },
+            {
+                "Ranking": "18",
+                "Team Name": "IST_neverGiveUp",
+                "University": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                "Solved": "4",
+                "Penalty": "433"
+            },
+            {
+                "Ranking": "19",
+                "Team Name": "SEC_BinaryTernary",
+                "University": "Sylhet Engineering College",
+                "Solved": "4",
+                "Penalty": "451"
+            },
+            {
+                "Ranking": "20",
+                "Team Name": "NSU_MinimumStonkingTriple",
+                "University": "North South University",
+                "Solved": "4",
+                "Penalty": "482"
+            },
+            {
+                "Ranking": "21",
+                "Team Name": "IIUC_SuddenPlan",
+                "University": "International Islamic University Chittagong",
+                "Solved": "4",
+                "Penalty": "494"
+            },
+            {
+                "Ranking": "22",
+                "Team Name": "JU_Kaizen",
+                "University": "Jahangirnagar University",
+                "Solved": "4",
+                "Penalty": "508"
+            },
+            {
+                "Ranking": "23",
+                "Team Name": "Three Caballeros",
+                "University": "CUET",
+                "Solved": "4",
+                "Penalty": "523"
+            },
+            {
+                "Ranking": "24",
+                "Team Name": "SUST_Scrumping_Puppets_2.0",
+                "University": "SHAHJALAL UNIVERSITY OF SCIENCE AND TECHNOLOGY (SUST)",
+                "Solved": "4",
+                "Penalty": "600"
+            },
+            {
+                "Ranking": "25",
+                "Team Name": "CUET_EQUINOX",
+                "University": "CUET",
+                "Solved": "4",
+                "Penalty": "608"
+            },
+            {
+                "Ranking": "26",
+                "Team Name": "IUT_Oikotaan",
+                "University": "Islamic University of Technology",
+                "Solved": "4",
+                "Penalty": "619"
+            },
+            {
+                "Ranking": "27",
+                "Team Name": "DU Achilles",
+                "University": "University of Dhaka",
+                "Solved": "4",
+                "Penalty": "644"
+            },
+            {
+                "Ranking": "28",
+                "Team Name": "BUET_Tandem_Repeat",
+                "University": "Bangladesh University of Engineering and Technology",
+                "Solved": "4",
+                "Penalty": "743"
+            },
+            {
+                "Ranking": "29",
+                "Team Name": "MBSTU_Lazy_Programmer",
+                "University": "Mawlana Bhashani Science & Technology University",
+                "Solved": "4",
+                "Penalty": "748"
+            },
+            {
+                "Ranking": "30",
+                "Team Name": "JU_Lightning",
+                "University": "Jahangirnagar University",
+                "Solved": "4",
+                "Penalty": "761"
+            },
+            {
+                "Ranking": "31",
+                "Team Name": "IUT_Durjoy",
+                "University": "ISLAMIC UNIVERSITY OF TECHNOLOGY",
+                "Solved": "4",
+                "Penalty": "806"
+            },
+            {
+                "Ranking": "32",
+                "Team Name": "DU_3Musketeers",
+                "University": "University of Dhaka",
+                "Solved": "4",
+                "Penalty": "807"
+            },
+            {
+                "Ranking": "33",
+                "Team Name": "RRR",
+                "University": "RAJSHAHI UNIVERSITY OF ENGINEERING AND TECHNOLOGY",
+                "Solved": "4",
+                "Penalty": "843"
+            },
+            {
+                "Ranking": "34",
+                "Team Name": "JUST_TrinomialCodecast",
+                "University": "Jashore University of Science and Technology",
+                "Solved": "4",
+                "Penalty": "885"
+            },
+            {
+                "Ranking": "35",
+                "Team Name": "IOI2",
+                "University": "IOI",
+                "Solved": "4",
+                "Penalty": "1232"
+            },
+            {
+                "Ranking": "36",
+                "Team Name": "FU_TLE_Eliminators",
+                "University": "Feni University",
+                "Solved": "3",
+                "Penalty": "135"
+            },
+            {
+                "Ranking": "37",
+                "Team Name": "RUET_Fat_HEADs",
+                "University": "Rajshahi University of Engineering & Technology",
+                "Solved": "3",
+                "Penalty": "177"
+            },
+            {
+                "Ranking": "38",
+                "Team Name": "AUST_Shunno7",
+                "University": "Ahsanullah University of Science and Technology",
+                "Solved": "3",
+                "Penalty": "276"
+            },
+            {
+                "Ranking": "39",
+                "Team Name": "KUET_Capricious",
+                "University": "Khulna University of Engineering & Technology",
+                "Solved": "3",
+                "Penalty": "290"
+            },
+            {
+                "Ranking": "40",
+                "Team Name": "BUET_Ragnarok",
+                "University": "Bangladesh University of Engineering and Technology",
+                "Solved": "3",
+                "Penalty": "359"
+            },
+            {
+                "Ranking": "41",
+                "Team Name": "KUET_TheFamily",
+                "University": "Khulna University of Engineering and Technology",
+                "Solved": "3",
+                "Penalty": "380"
+            },
+            {
+                "Ranking": "42",
+                "Team Name": "CU_ChunoPuti",
+                "University": "University of Chittagong",
+                "Solved": "3",
+                "Penalty": "402"
+            },
+            {
+                "Ranking": "43",
+                "Team Name": "MU_Trinomial",
+                "University": "Metropolitan University",
+                "Solved": "3",
+                "Penalty": "423"
+            },
+            {
+                "Ranking": "44",
+                "Team Name": "JU_KakashiSquad",
+                "University": "Jahangirnagar University",
+                "Solved": "3",
+                "Penalty": "441"
+            },
+            {
+                "Ranking": "45",
+                "Team Name": "CoU_NextDreamers",
+                "University": "Comilla University",
+                "Solved": "3",
+                "Penalty": "467"
+            },
+            {
+                "Ranking": "46",
+                "Team Name": "PSTU_BinaryMindSet",
+                "University": "Patuakhali Science & Technology University",
+                "Solved": "3",
+                "Penalty": "482"
+            },
+            {
+                "Ranking": "47",
+                "Team Name": "CUET_Donquixote",
+                "University": "Chittagong University of Engineering and Technology",
+                "Solved": "3",
+                "Penalty": "533"
+            },
+            {
+                "Ranking": "48",
+                "Team Name": "LU_dAREdevils",
+                "University": "Leading University",
+                "Solved": "3",
+                "Penalty": "548"
+            },
+            {
+                "Ranking": "49",
+                "Team Name": "CUET_StraightOuttaSRH",
+                "University": "Chittagong University of Engineering & Technology",
+                "Solved": "3",
+                "Penalty": "549"
+            },
+            {
+                "Ranking": "50",
+                "Team Name": "CoU_Debug_Entity",
+                "University": "Comilla University",
+                "Solved": "3",
+                "Penalty": "561"
+            },
+            {
+                "Ranking": "51",
+                "Team Name": "UIU_Mayer_Doa",
+                "University": "United International University",
+                "Solved": "3",
+                "Penalty": "621"
+            },
+            {
+                "Ranking": "52",
+                "Team Name": "NSU_CarpalTunnel",
+                "University": "North South University",
+                "Solved": "3",
+                "Penalty": "633"
+            },
+            {
+                "Ranking": "53",
+                "Team Name": "SUST_CodeCrafters",
+                "University": "Shahjalal University of Science and Technology",
+                "Solved": "3",
+                "Penalty": "635"
+            },
+            {
+                "Ranking": "54",
+                "Team Name": "BRACU_MergeConflict",
+                "University": "BRAC University",
+                "Solved": "3",
+                "Penalty": "639"
+            },
+            {
+                "Ranking": "55",
+                "Team Name": "CUET_FossilCoders",
+                "University": "Chittagong University of Engineering and Technology",
+                "Solved": "3",
+                "Penalty": "649"
+            },
+            {
+                "Ranking": "56",
+                "Team Name": "EDU_CoPrime",
+                "University": "East Delta University",
+                "Solved": "3",
+                "Penalty": "664"
+            },
+            {
+                "Ranking": "57",
+                "Team Name": "BRACU_OnRush",
+                "University": "BRAC University",
+                "Solved": "2",
+                "Penalty": "124"
+            },
+            {
+                "Ranking": "58",
+                "Team Name": "CUET_Bit_By_Bit",
+                "University": "Chittagong University of Engineering & Technology",
+                "Solved": "2",
+                "Penalty": "152"
+            },
+            {
+                "Ranking": "59",
+                "Team Name": "Rebooters_SHU",
+                "University": "Sheikh Hasina University",
+                "Solved": "2",
+                "Penalty": "164"
+            },
+            {
+                "Ranking": "60",
+                "Team Name": "IUBAT_Potato_Mind",
+                "University": "International University of Business Agriculture and Technology",
+                "Solved": "2",
+                "Penalty": "165"
+            },
+            {
+                "Ranking": "61",
+                "Team Name": "Zero or One",
+                "University": "RANGAMATI SCIENCE AND TECHNOLOGY UNIVERSITY",
+                "Solved": "2",
+                "Penalty": "179"
+            },
+            {
+                "Ranking": "62",
+                "Team Name": "PUC_Hacking_Trio",
+                "University": "PREMIER UNIVERSITY CHITTAGONG",
+                "Solved": "2",
+                "Penalty": "189"
+            },
+            {
+                "Ranking": "63",
+                "Team Name": "PCIU_BitRangers",
+                "University": "Port City International University",
+                "Solved": "2",
+                "Penalty": "190"
+            },
+            {
+                "Ranking": "64",
+                "Team Name": "IIUC_Big_Brothers",
+                "University": "International Islamic University Chittagong",
+                "Solved": "2",
+                "Penalty": "191"
+            },
+            {
+                "Ranking": "65",
+                "Team Name": "NEUB_BELIEVERS",
+                "University": "North east University Bangladesh",
+                "Solved": "2",
+                "Penalty": "209"
+            },
+            {
+                "Ranking": "66",
+                "Team Name": "KUET_Jajabor",
+                "University": "Khulna University of Engineering and Technology",
+                "Solved": "2",
+                "Penalty": "218"
+            },
+            {
+                "Ranking": "67",
+                "Team Name": "BUBT_BabySteps",
+                "University": "Bangladesh University of Business and Technology (BUBT)",
+                "Solved": "2",
+                "Penalty": "222"
+            },
+            {
+                "Ranking": "68",
+                "Team Name": "MIST_Algorithm_Avengers",
+                "University": "Military Institute of Science and Technology",
+                "Solved": "2",
+                "Penalty": "227"
+            },
+            {
+                "Ranking": "69",
+                "Team Name": "KUET_TheArviSquad",
+                "University": "khulna university of engineering & technology",
+                "Solved": "2",
+                "Penalty": "234"
+            },
+            {
+                "Ranking": "70",
+                "Team Name": "DIU_InfinityLemma",
+                "University": "Daffodil International University",
+                "Solved": "2",
+                "Penalty": "246"
+            },
+            {
+                "Ranking": "71",
+                "Team Name": "MIST_CENTURIONS",
+                "University": "Military Institute of Science and Technology",
+                "Solved": "2",
+                "Penalty": "284"
+            },
+            {
+                "Ranking": "72",
+                "Team Name": "DIU_Sedulous",
+                "University": "Daffodil International University",
+                "Solved": "2",
+                "Penalty": "285"
+            },
+            {
+                "Ranking": "73",
+                "Team Name": "BU_Phantoms",
+                "University": "University Of Barisal",
+                "Solved": "2",
+                "Penalty": "287"
+            },
+            {
+                "Ranking": "74",
+                "Team Name": "EWU_!QtPi(s)",
+                "University": "East West University",
+                "Solved": "2",
+                "Penalty": "299"
+            },
+            {
+                "Ranking": "75",
+                "Team Name": "CUET Khela_Final",
+                "University": "Chittagong University of Engineering and Technology",
+                "Solved": "2",
+                "Penalty": "302"
+            },
+            {
+                "Ranking": "76",
+                "Team Name": "FullGlassEmpty()",
+                "University": "University of Information Technology & Sciences",
+                "Solved": "2",
+                "Penalty": "308"
+            },
+            {
+                "Ranking": "77",
+                "Team Name": "BSFMSTU_LEGION",
+                "University": "Bangamata Sheikh Fojilatunnesa Mujib Science And Technology University",
+                "Solved": "2",
+                "Penalty": "323"
+            },
+            {
+                "Ranking": "78",
+                "Team Name": "CUET_PiedPipers",
+                "University": "Chittagong University of Engineering and Technology (CUET)",
+                "Solved": "2",
+                "Penalty": "364"
+            },
+            {
+                "Ranking": "79",
+                "Team Name": "NSTU-whizBang",
+                "University": "Noakhali Science and Technology University",
+                "Solved": "2",
+                "Penalty": "373"
+            },
+            {
+                "Ranking": "80",
+                "Team Name": "RUET_AWEsome",
+                "University": "RUET",
+                "Solved": "2",
+                "Penalty": "454"
+            },
+            {
+                "Ranking": "81",
+                "Team Name": "BUBT_AlphaQForces",
+                "University": "Bangladesh University of Business and Technology",
+                "Solved": "2",
+                "Penalty": "462"
+            },
+            {
+                "Ranking": "82",
+                "Team Name": "SMUCT_Labyrinth_Leets",
+                "University": "Shanto-Mariam University of Creative Technology",
+                "Solved": "1",
+                "Penalty": "3"
+            },
+            {
+                "Ranking": "83",
+                "Team Name": "DU_\u09a6\u09cd\u09ac\u09bf\u0995\u09b2\u09a8",
+                "University": "University of Dhaka",
+                "Solved": "1",
+                "Penalty": "4"
+            },
+            {
+                "Ranking": "84",
+                "Team Name": "UAP_Amogus",
+                "University": "University of Asia Pacific",
+                "Solved": "1",
+                "Penalty": "4"
+            },
+            {
+                "Ranking": "85",
+                "Team Name": "BSMRU_NewHorizon",
+                "University": "Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj",
+                "Solved": "1",
+                "Penalty": "4"
+            },
+            {
+                "Ranking": "86",
+                "Team Name": "CUET_BitCrackers",
+                "University": "Chittagong University of Engineering and Technology",
+                "Solved": "1",
+                "Penalty": "4"
+            },
+            {
+                "Ranking": "87",
+                "Team Name": "BRUR_Undone",
+                "University": "BEGUM ROKEYA UNIVERSITY, RANGPUR",
+                "Solved": "1",
+                "Penalty": "4"
+            },
+            {
+                "Ranking": "88",
+                "Team Name": "PU_Dcoders",
+                "University": "Prime University",
+                "Solved": "1",
+                "Penalty": "5"
+            },
+            {
+                "Ranking": "89",
+                "Team Name": "CUET_Gom_asi",
+                "University": "CUET",
+                "Solved": "1",
+                "Penalty": "6"
+            },
+            {
+                "Ranking": "90",
+                "Team Name": "DU_PeraNaiChill",
+                "University": "University of Dhaka",
+                "Solved": "1",
+                "Penalty": "7"
+            },
+            {
+                "Ranking": "91",
+                "Team Name": "GUB_ObjectPool",
+                "University": "Green University of Bangladesh",
+                "Solved": "1",
+                "Penalty": "8"
+            },
+            {
+                "Ranking": "92",
+                "Team Name": "IUB_hopeless",
+                "University": "Independent University, Bangladesh (IUB)",
+                "Solved": "1",
+                "Penalty": "8"
+            },
+            {
+                "Ranking": "93",
+                "Team Name": "RPSU_Ternary_Troopers",
+                "University": "R.P. Shaha University",
+                "Solved": "1",
+                "Penalty": "10"
+            },
+            {
+                "Ranking": "94",
+                "Team Name": "not_decided",
+                "University": "Noakhali Science and Technology University",
+                "Solved": "1",
+                "Penalty": "11"
+            },
+            {
+                "Ranking": "95",
+                "Team Name": "Team_No_Name",
+                "University": "Jatiya Kabi Kazi Nazrul Islam University",
+                "Solved": "1",
+                "Penalty": "11"
+            },
+            {
+                "Ranking": "96",
+                "Team Name": "Binary Wizards",
+                "University": "Dhaka City College",
+                "Solved": "1",
+                "Penalty": "26"
+            },
+            {
+                "Ranking": "97",
+                "Team Name": "Mortal_Legion",
+                "University": "Bangladesh University of Professionals",
+                "Solved": "1",
+                "Penalty": "32"
+            },
+            {
+                "Ranking": "98",
+                "Team Name": "BAIUST_Auditorium",
+                "University": "Bangladesh Army International University of Science and Technology",
+                "Solved": "1",
+                "Penalty": "35"
+            },
+            {
+                "Ranking": "99",
+                "Team Name": "CSTU_Elish_Ten",
+                "University": "Chandpur Science and Technology University",
+                "Solved": "1",
+                "Penalty": "99"
+            },
+            {
+                "Ranking": "100",
+                "Team Name": "CSTU_Dhuli_kona",
+                "University": "Chandpur Science and Technology University",
+                "Solved": "1",
+                "Penalty": "176"
+            }
+        ]
+    }
+]
