@@ -14,7 +14,7 @@ const ncpc_data: CONTEST_DATA [] = [
                 universityTeams: [
                     {
                         rank: 34,
-                        teamName: 'AUST_Shunn07',
+                        teamName: 'AUST_Shunno7',
                         totalSolved: 6,
                         penalty: 930,
                         teamMembers: ['APU DAS', 'FATIN ISHRAQ', 'GOLAM IBNA HAMZA']

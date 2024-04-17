@@ -22,7 +22,7 @@ const iupc_data: CONTEST_DATA[] = [
                     },
                     {
                         rank: 101,
-                        teamName: 'AUST_Shunn07',
+                        teamName: 'AUST_Shunno7',
                         totalSolved: 2,
                         penalty: 102,
                         teamMembers: ['APU DAS', 'FATIN ISHRAQ', 'MOHAMMED ABDULLAH-AL SAJID']
@@ -39,7 +39,7 @@ const iupc_data: CONTEST_DATA[] = [
                 universityTeams: [
                     {
                         rank: 38,
-                        teamName: 'AUST_Shunn07',
+                        teamName: 'AUST_Shunno7',
                         totalSolved: 3,
                         penalty: 276,
                         teamMembers: ['APU DAS', 'FATIN ISHRAQ', 'MOHAMMED ABDULLAH-AL SAJID']
