@@ -3,6 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-image: url("/bg.png");
+  background-size: 800px;
+  background-repeat: repeat;
 }
 
 .logo {

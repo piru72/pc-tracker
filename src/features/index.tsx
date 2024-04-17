@@ -1,11 +1,13 @@
 import { Box, Tab, TabList, TabPanel, TabPanels, Tabs } from '@chakra-ui/react';
 import SectionTitle from '../components/title/SectionTitle';
-import ncpc_data from '../utils/NCPC_DATA';
-import iupc_data from '../utils/IUPC_DATA';
 import icpc_data from '../utils/ICPC_DATA';
+import iupc_data from '../utils/IUPC_DATA';
+import ncpc_data from '../utils/NCPC_DATA';
 import ContestSummaryTable from './contests/components/ContestSummaryTable';
 
+
 const Index = () => {
+    
     return (
         <Box maxW="10xl" mx={'auto'} pt={5} px={{ base: 2, sm: 12, md: 17 }}>
             <SectionTitle title='Ahsanullah University of Science and Technology' />
