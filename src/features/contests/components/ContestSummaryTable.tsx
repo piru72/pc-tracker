@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import ContestModel from '../../../model/ContestModel';
 import TableDataRow from '../../../model/TableDataRowModel';
-import { formatDate } from '../../../utils/helperfunctions';
+import { formatDate } from '../../../utils/helpers';
 import ModalTablesBody from './ModalTablesBody';
 
 interface ContestSummaryTableProps {
