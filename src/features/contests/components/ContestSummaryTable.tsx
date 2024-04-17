@@ -25,8 +25,29 @@ const ContestSummaryTable = ({ contestData }: ContestSummaryTableProps) => {
             backdropFilter='blur(10px) hue-rotate(0deg)'
         />
     )
+    function formatDate(dateString: string): string {
+        const dateParts: string[] = dateString.split('-');
+        const year: string = dateParts[0];
+        const month: string = dateParts[1];
+        const day: string = dateParts[2];
+
+
+        const monthNames: string[] = [
+            'January', 'February', 'March', 'April',
+            'May', 'June', 'July', 'August',
+            'September', 'October', 'November', 'December'
+        ];
+
+
+        const date: Date = new Date(parseInt(year), parseInt(month) - 1, parseInt(day)); // Month needs to be 0-indexed
+
+        const formattedDate: string = `${day} ${monthNames[date.getMonth()]} ${year}`;
+
+        return formattedDate;
+    }
     const [selectedContestDetails, setSelectedContestDetails] = useState<TableDataRow[]>([]);
     const [selectedContestStandingLink, setSelectedContestStandingLink] = useState<string>('');
+    const [selectedContestTitle, setSelectedContestTitle] = useState<string>('');
     const { isOpen, onOpen, onClose } = useDisclosure()
     const [overlay, setOverlay] = React.useState(<OverlayOne />)
 
@@ -36,40 +57,54 @@ const ContestSummaryTable = ({ contestData }: ContestSummaryTableProps) => {
                 <TableCaption></TableCaption>
                 <Thead>
                     <Tr>
-                        <Th>Serial</Th>
-                        <Th>Title</Th>
-                        <Th>Date</Th>
-                        <Th isNumeric>Total Participating Team</Th>
-                        <Th isNumeric>Top Teams Rank</Th>
-                        <Th isNumeric>Details</Th>
+                        <Th textAlign='center'>Serial</Th>
+                        <Th textAlign='center'>Title</Th>
+                        <Th textAlign='center'>Date</Th>
+                        <Th textAlign='center'>Total Participating Team</Th>
+                        <Th textAlign='center'>Top Teams Rank</Th>
+                        <Th textAlign='center'>Details</Th>
                     </Tr>
                 </Thead>
                 <Tbody>
                     {
-                        contestData.filter((university) => university.universityShortName === 'AUST').map((university, index) => {
-                            return (
-                                <Tr key={index}>
-                                    <Td>{index + 1}</Td>
-                                    <Td>{university.data[0].contestTitle}</Td>
-                                    <Td>{university.data[0].contestDate}</Td>
-                                    <Td isNumeric>{university.data[0].totalParticipatingTeam}</Td>
-                                    <Td isNumeric>{university.data[0].universityTeams[0].rank}</Td>
-                                    <Td isNumeric ><Button
-                                        colorScheme='blue'
-                                        onClick={() => {
-                                            setOverlay(<OverlayOne />)
-                                            onOpen()
-                                            setSelectedContestDetails(university.data[0].universityTeams)
-                                            setSelectedContestStandingLink(university.data[0].standingLink)
-                                        }}> Details</Button></Td>
-                                </Tr>
-                            )
-                        })
+                        contestData
+                            .filter((university) => university.universityShortName === 'AUST')
+                            .map((university, universityIndex) => {
+                                const sortedData = [...university.data].sort((a, b) => {
+                                    return new Date(a.contestDate).getTime() - new Date(b.contestDate).getTime();
+                                });
+
+                                const reversedData = sortedData.reverse();
+                                reversedData.forEach((contest) => {
+                                    contest.universityTeams.sort((a, b) => a.rank - b.rank);
+                                });
+
+                                return reversedData.map((contest, contestIndex) => (
+                                    <Tr key={universityIndex * 100 + contestIndex}>
+                                        <Td textAlign='center'>{universityIndex * university.data.length + contestIndex + 1}</Td>
+                                        <Td textAlign='center'>{contest.contestTitle}</Td>
+                                        <Td textAlign='center'>{formatDate(contest.contestDate)}</Td>
+                                        <Td textAlign='center'>{contest.totalParticipatingTeam}</Td>
+                                        <Td textAlign='center'>{contest.universityTeams[0].rank}</Td>
+                                        <Td textAlign='center'><Button
+                                            colorScheme='blue'
+                                            onClick={() => {
+                                                setOverlay(<OverlayOne />)
+                                                onOpen()
+                                                setSelectedContestDetails(contest.universityTeams)
+                                                setSelectedContestStandingLink(contest.standingLink)
+                                                setSelectedContestTitle(contest.contestTitle)
+                                            }}>Details</Button></Td>
+                                    </Tr>
+                                ));
+                            })
                     }
+
+
                     <Modal isCentered isOpen={isOpen} onClose={onClose} size='5xl'>
                         {overlay}
                         <ModalContent id='modal-content'>
-                            <ModalHeader textAlign={'center'}>NCPC Onsite JU 2023</ModalHeader>
+                            <ModalHeader textAlign={'center'}>{selectedContestTitle}</ModalHeader>
                             <ModalCloseButton />
                             <ModalBody>
                                 <TableContainer>
@@ -94,11 +129,12 @@ const ContestSummaryTable = ({ contestData }: ContestSummaryTableProps) => {
                                                     <Td textAlign='center'>
                                                         {row.teamMembers.map((member, memberIndex) => (
                                                             <React.Fragment key={memberIndex}>
-                                                                {member}
-                                                                {memberIndex !== row.teamMembers.length - 1 && <br />}
+                                                                {member || "N/A"}
+                                                                {memberIndex !== 2 && <br />} {/* Only add <br> for the first two members */}
                                                             </React.Fragment>
                                                         ))}
                                                     </Td>
+
                                                 </Tr>
                                             ))}
                                         </Tbody>

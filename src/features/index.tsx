@@ -1,6 +1,8 @@
 import { Box, Tab, TabList, TabPanel, TabPanels, Tabs } from '@chakra-ui/react';
 import SectionTitle from '../components/title/SectionTitle';
 import ncpc_data from '../utils/NCPC_DATA';
+import iupc_data from '../utils/IUPC_DATA';
+import icpc_data from '../utils/ICPC_DATA';
 import ContestSummaryTable from './contests/components/ContestSummaryTable';
 
 const Index = () => {
@@ -16,8 +18,13 @@ const Index = () => {
                 </TabList>
                 <TabPanels>
                     <TabPanel>
+                        <ContestSummaryTable
+                            contestData={iupc_data} />
                     </TabPanel>
                     <TabPanel>
+                        <ContestSummaryTable
+                            contestData={icpc_data} />
+
                     </TabPanel>
                     <TabPanel>
                         <ContestSummaryTable
