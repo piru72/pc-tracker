@@ -1,6 +1,6 @@
-import icpc_data from '../utils/ICPC_DATA';
-import iupc_data from '../utils/IUPC_DATA';
-import ncpc_data from '../utils/NCPC_DATA';
+import icpc_data from '../../public/ICPC_DATA';
+import iupc_data from '../../public/IUPC_DATA';
+import ncpc_data from '../../public/NCPC_DATA';
 function getIUPCData() {
     return iupc_data;
 }

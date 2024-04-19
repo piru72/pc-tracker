@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "public/ICPC_DATA.tsx", "public/IUPC_DATA.tsx", "public/NCPC_DATA.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

@@ -1,4 +1,4 @@
-import CONTEST_DATA from '../model/ContestModel';
+import CONTEST_DATA from '../src/model/ContestModel';
 const iupc_data: CONTEST_DATA[] = [
 
     {
