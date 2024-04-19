@@ -1,38 +1,17 @@
 import { Button, ButtonGroup, Modal, ModalContent, ModalFooter, ModalOverlay, Table, TableCaption, TableContainer, Tbody, Td, Th, Thead, Tr, useDisclosure } from '@chakra-ui/react';
-import downloadjs from 'downloadjs';
-import html2canvas from 'html2canvas';
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import ContestModel from '../../../model/ContestModel';
 import TableDataRow from '../../../model/TableDataRowModel';
 import { formatDate } from '../../../utils/helpers';
 import ModalTablesBody from './ModalTablesBody';
+import { handleCaptureClick } from '../../../utils/DownloadImage';
 interface ContestSummaryTableProps {
     contestData: ContestModel[];
+    universityShortName: string;
 }
-const handleCaptureClick = async (imageTitle: string, divName: string) => {
-    const dessiredElement =
-        document.querySelector<HTMLElement>('.'+divName);
-    if (!dessiredElement) return;
 
-    const copiedElement = dessiredElement.cloneNode(
-        true
-    ) as HTMLElement;
-    copiedElement.style.position = 'fixed';
-    copiedElement.style.right = '100%';
-    copiedElement.style.height = 'auto';
-
-    document.body.append(copiedElement);
-
-    const canvas = await html2canvas(copiedElement);
-
-    copiedElement.remove();
-
-    const dataURL = canvas.toDataURL('image/png');
-    downloadjs(dataURL, imageTitle+'.png', 'image/png');
-};
-
-const ContestSummaryTable = ({ contestData }: ContestSummaryTableProps) => {
+const ContestSummaryTable = ({ contestData, universityShortName }: ContestSummaryTableProps) => {
     const OverlayOne = () => (
         <ModalOverlay
             bg='blackAlpha.300'
@@ -44,7 +23,7 @@ const ContestSummaryTable = ({ contestData }: ContestSummaryTableProps) => {
     const [selectedContestTitle, setSelectedContestTitle] = useState<string>('');
     const { isOpen, onOpen, onClose } = useDisclosure()
     const [overlay, setOverlay] = React.useState(<OverlayOne />)
-    const MainTabeHeads = ['Serial', 'Title', 'Event Date', 'Total Participated Teams', 'Top Team Rank', 'AUST Team details']
+    const MainTabeHeads = ['Serial', 'Title', 'Event Date', 'Total Participated Teams', 'Top Team Rank', universityShortName + ' Team details']
     const contestDetailsDiv = 'contest-details-table';
 
     return (
@@ -61,7 +40,7 @@ const ContestSummaryTable = ({ contestData }: ContestSummaryTableProps) => {
                 <Tbody>
                     {
                         contestData
-                            .filter((university) => university.universityShortName === 'AUST')
+                            .filter((university) => university.universityShortName === universityShortName)
                             .map((university, universityIndex) => {
                                 const sortedData = [...university.data].sort((a, b) => {
                                     return new Date(a.contestDate).getTime() - new Date(b.contestDate).getTime();
