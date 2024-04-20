@@ -48,7 +48,8 @@ const ncpc_data: CONTEST_DATA [] = [
                         teamMembers: ['MD IFTEKHAR ZAWAD', 'PABAK DEV', 'SAKIBUL HASSAN SHOVON']
                     }
                 ]
-            }
+            },
+            
         ]
     }
 
