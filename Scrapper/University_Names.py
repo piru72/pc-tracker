@@ -58,4 +58,11 @@ universityNames = {
     'Southeast University': 'SEU',
     'National Institute of Textile Engineering and Research - NITER': 'NITER',
     'Chittagong Independent University': 'CIU',
+    'International Olympiad in Informatics' : 'IOI',
+    'Shahjalal University of Science and Technology (SUST)' : 'SUST',
+    'Shahjalal University of Science and Technology' : 'SUST',
+    'SHAHJALAL UNIVERSITY OF SCIENCE AND TECHNOLOGY (SUST)' : 'SUST',
+    'Shahjalal University of Science and Technology' : 'SUST',
+    'Bangladesh University of Engineering and Technology' : 'BUET',
+    'Jashore University of Science and Technology' : 'JUST',
 }

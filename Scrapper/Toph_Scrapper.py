@@ -64,7 +64,7 @@ formatted_contest_data = [{
         'contestTitle': CONTEST_NAME,
         'contestDate': CONTEST_DATE,
         'standingLink': CONTEST_URL,
-        'totalParticipatingTeam': 120,
+        'totalParticipatingTeam': len(penalty_list),
         'universityTeams': university_contest_data[university_short_name]
     }]
 } for university_short_name in university_contest_data]
@@ -72,5 +72,43 @@ formatted_contest_data = [{
 # Create DataFrame from the formatted contest data
 df = pd.DataFrame(formatted_contest_data)
 
-# Export DataFrame to JSON
-df.to_json('IUPC_DATA.json', orient='records')
+import os.path
+
+# Check if the file exists
+if os.path.exists('IUPC_DATA.json'):
+    # If the file exists, load its content
+    existing_data = pd.read_json('IUPC_DATA.json', orient='records')
+
+    print(existing_data)
+
+    print("\n\n\nNew Data:")
+    print(df)
+    # Now go to each data of existing_data 
+    # and append the df.datas data to existing_data datas
+
+    
+    for i in range(len(existing_data)):
+        for j in range(len(df)):
+            if existing_data.iloc[i]['universityShortName'] == df.iloc[j]['universityShortName']:
+                # print("Matched")
+                # print(existing_data.iloc[i]['data'])
+                # print(df.iloc[j]['data'])
+                # existing_data.iloc[i]['data'] = existing_data.iloc[i]['data'].append(df.iloc[j]['data'])
+                existing_data.iloc[i]['data'].append(df.iloc[j]['data'][0])
+
+                # print ("After appending")
+                # print(existing_data.iloc[i]['data'])
+                # print("\n\n\n")
+                break
+    
+    # Append or merge the new data with the existing data
+    updated_data = existing_data
+    # If you want to merge based on certain columns, you can use pd.merge()
+    # updated_data = pd.merge(existing_data, df, on='universityShortName', how='outer')
+
+    # Export the updated DataFrame to JSON
+    updated_data.to_json('IUPC_DATA.json', orient='records', index=False)
+else:
+    # If the file doesn't exist, simply export the DataFrame to JSON
+    df.to_json('IUPC_DATA.json', orient='records', index=False)
+

@@ -230,6 +230,69 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 3,
+                        "totalSolved": 8,
+                        "penalty": 1204,
+                        "teamName": "SUST_GuessForces",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 6,
+                        "totalSolved": 6,
+                        "penalty": 872,
+                        "teamName": "SUST_SnackAttack",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 12,
+                        "totalSolved": 5,
+                        "penalty": 763,
+                        "teamName": "SUST_Late_For_Registration",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 24,
+                        "totalSolved": 4,
+                        "penalty": 600,
+                        "teamName": "SUST_Scrumping_Puppets_2.0",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 53,
+                        "totalSolved": 3,
+                        "penalty": 635,
+                        "teamName": "SUST_CodeCrafters",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -310,6 +373,69 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 4,
+                        "totalSolved": 7,
+                        "penalty": 1004,
+                        "teamName": "BUET_Nightfall",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 7,
+                        "totalSolved": 6,
+                        "penalty": 919,
+                        "teamName": "BUET_Twilight",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 8,
+                        "totalSolved": 6,
+                        "penalty": 951,
+                        "teamName": "Buet_Lost_Sailors",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 28,
+                        "totalSolved": 4,
+                        "penalty": 743,
+                        "teamName": "BUET_Tandem_Repeat",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 40,
+                        "totalSolved": 3,
+                        "penalty": 359,
+                        "teamName": "BUET_Ragnarok",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -357,6 +483,47 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 1,
+                        "totalSolved": 9,
+                        "penalty": 1383,
+                        "teamName": "BRACU_Crows",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 54,
+                        "totalSolved": 3,
+                        "penalty": 639,
+                        "teamName": "BRACU_MergeConflict",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 57,
+                        "totalSolved": 2,
+                        "penalty": 124,
+                        "teamName": "BRACU_OnRush",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -397,6 +564,36 @@
                         "totalSolved": 3,
                         "penalty": 177,
                         "teamName": "IUT_Rupkotha",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 11,
+                        "totalSolved": 5,
+                        "penalty": 659,
+                        "teamName": "IUT_Shongshoptok",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 26,
+                        "totalSolved": 4,
+                        "penalty": 619,
+                        "teamName": "IUT_Oikotaan",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -455,6 +652,25 @@
                         "totalSolved": 4,
                         "penalty": 431,
                         "teamName": "KUET_ByteBlitz",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 39,
+                        "totalSolved": 3,
+                        "penalty": 290,
+                        "teamName": "KUET_Capricious",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -531,6 +747,69 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 15,
+                        "totalSolved": 5,
+                        "penalty": 1098,
+                        "teamName": "DU_Void",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 27,
+                        "totalSolved": 4,
+                        "penalty": 644,
+                        "teamName": "DU Achilles",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 32,
+                        "totalSolved": 4,
+                        "penalty": 807,
+                        "teamName": "DU_3Musketeers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 83,
+                        "totalSolved": 1,
+                        "penalty": 4,
+                        "teamName": "DU_\u09a6\u09cd\u09ac\u09bf\u0995\u09b2\u09a8",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 90,
+                        "totalSolved": 1,
+                        "penalty": 7,
+                        "teamName": "DU_PeraNaiChill",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -578,6 +857,36 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 45,
+                        "totalSolved": 3,
+                        "penalty": 467,
+                        "teamName": "CoU_NextDreamers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 50,
+                        "totalSolved": 3,
+                        "penalty": 561,
+                        "teamName": "CoU_Debug_Entity",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -606,6 +915,25 @@
                         "rank": 48,
                         "totalSolved": 3,
                         "penalty": 94,
+                        "teamName": "JUST_TrinomialCodecast",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 34,
+                        "totalSolved": 4,
+                        "penalty": 885,
                         "teamName": "JUST_TrinomialCodecast",
                         "teamMembers": [
                             "N\/A",
@@ -661,6 +989,36 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 17,
+                        "totalSolved": 5,
+                        "penalty": 1150,
+                        "teamName": "MBSTU_Novatos",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 29,
+                        "totalSolved": 4,
+                        "penalty": 748,
+                        "teamName": "MBSTU_Lazy_Programmer",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -689,6 +1047,36 @@
                         "rank": 101,
                         "totalSolved": 2,
                         "penalty": 102,
+                        "teamName": "AUST_Shunno7",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 13,
+                        "totalSolved": 5,
+                        "penalty": 784,
+                        "teamName": "AUST_RedX",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 38,
+                        "totalSolved": 3,
+                        "penalty": 276,
                         "teamName": "AUST_Shunno7",
                         "teamMembers": [
                             "N\/A",
@@ -791,6 +1179,36 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 49,
+                        "totalSolved": 3,
+                        "penalty": 549,
+                        "teamName": "CUET_StraightOuttaSRH",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 58,
+                        "totalSolved": 2,
+                        "penalty": 152,
+                        "teamName": "CUET_Bit_By_Bit",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -838,6 +1256,47 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 22,
+                        "totalSolved": 4,
+                        "penalty": 508,
+                        "teamName": "JU_Kaizen",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 30,
+                        "totalSolved": 4,
+                        "penalty": 761,
+                        "teamName": "JU_Lightning",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 44,
+                        "totalSolved": 3,
+                        "penalty": 441,
+                        "teamName": "JU_KakashiSquad",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -867,6 +1326,36 @@
                         "totalSolved": 4,
                         "penalty": 515,
                         "teamName": "NSU_3UNSAT",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 20,
+                        "totalSolved": 4,
+                        "penalty": 482,
+                        "teamName": "NSU_MinimumStonkingTriple",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 52,
+                        "totalSolved": 3,
+                        "penalty": 633,
+                        "teamName": "NSU_CarpalTunnel",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -910,6 +1399,36 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 21,
+                        "totalSolved": 4,
+                        "penalty": 494,
+                        "teamName": "IIUC_SuddenPlan",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 64,
+                        "totalSolved": 2,
+                        "penalty": 191,
+                        "teamName": "IIUC_Big_Brothers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -939,6 +1458,36 @@
                         "totalSolved": 3,
                         "penalty": 239,
                         "teamName": "EWU_NotThreeDimension",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 10,
+                        "totalSolved": 6,
+                        "penalty": 999,
+                        "teamName": "EWU_Constant_Factor",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 74,
+                        "totalSolved": 2,
+                        "penalty": 299,
+                        "teamName": "EWU_!QtPi(s)",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -986,6 +1535,36 @@
                         "totalSolved": 3,
                         "penalty": 331,
                         "teamName": "RU_Alvish_Rings",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 5,
+                        "totalSolved": 6,
+                        "penalty": 709,
+                        "teamName": "RU_NowOrNever",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 16,
+                        "totalSolved": 5,
+                        "penalty": 1116,
+                        "teamName": "RU_SFS-2.0",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -1162,6 +1741,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 43,
+                        "totalSolved": 3,
+                        "penalty": 423,
+                        "teamName": "MU_Trinomial",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1180,6 +1778,25 @@
                         "totalSolved": 3,
                         "penalty": 161,
                         "teamName": "UITS_O(struggle)",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 76,
+                        "totalSolved": 2,
+                        "penalty": 308,
+                        "teamName": "FullGlassEmpty()",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -1212,6 +1829,36 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 70,
+                        "totalSolved": 2,
+                        "penalty": 246,
+                        "teamName": "DIU_InfinityLemma",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 72,
+                        "totalSolved": 2,
+                        "penalty": 285,
+                        "teamName": "DIU_Sedulous",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1230,6 +1877,25 @@
                         "totalSolved": 3,
                         "penalty": 168,
                         "teamName": "UIU_Metamorphosis01",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 51,
+                        "totalSolved": 3,
+                        "penalty": 621,
+                        "teamName": "UIU_Mayer_Doa",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -1266,6 +1932,25 @@
                         "totalSolved": 3,
                         "penalty": 349,
                         "teamName": "UAP_Tenacious_Titans",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 84,
+                        "totalSolved": 1,
+                        "penalty": 4,
+                        "teamName": "UAP_Amogus",
                         "teamMembers": [
                             "N\/A",
                             "N\/A",
@@ -1356,6 +2041,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 91,
+                        "totalSolved": 1,
+                        "penalty": 8,
+                        "teamName": "GUB_ObjectPool",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1406,6 +2110,25 @@
                         "rank": 93,
                         "totalSolved": 3,
                         "penalty": 512,
+                        "teamName": "SEC_BinaryTernary",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 19,
+                        "totalSolved": 4,
+                        "penalty": 451,
                         "teamName": "SEC_BinaryTernary",
                         "teamMembers": [
                             "N\/A",
@@ -1550,6 +2273,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 56,
+                        "totalSolved": 3,
+                        "penalty": 664,
+                        "teamName": "EDU_CoPrime",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1625,6 +2367,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 42,
+                        "totalSolved": 3,
+                        "penalty": 402,
+                        "teamName": "CU_ChunoPuti",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1683,6 +2444,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 48,
+                        "totalSolved": 3,
+                        "penalty": 548,
+                        "teamName": "LU_dAREdevils",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1700,6 +2480,25 @@
                         "rank": 80,
                         "totalSolved": 3,
                         "penalty": 358,
+                        "teamName": "BSMRU_NewHorizon",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 85,
+                        "totalSolved": 1,
+                        "penalty": 4,
                         "teamName": "BSMRU_NewHorizon",
                         "teamMembers": [
                             "N\/A",
@@ -1750,6 +2549,25 @@
                         "rank": 89,
                         "totalSolved": 3,
                         "penalty": 440,
+                        "teamName": "Mortal_Legion",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 97,
+                        "totalSolved": 1,
+                        "penalty": 32,
                         "teamName": "Mortal_Legion",
                         "teamMembers": [
                             "N\/A",
@@ -1883,6 +2701,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 59,
+                        "totalSolved": 2,
+                        "penalty": 164,
+                        "teamName": "Rebooters_SHU",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -1975,6 +2812,25 @@
                         "rank": 116,
                         "totalSolved": 1,
                         "penalty": 23,
+                        "teamName": "SMUCT_Labyrinth_Leets",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "contestTitle": "CUET Inter University Programming Contest CodeStorm 1.0",
+                "contestDate": "2024-01-26",
+                "standingLink": "https:\/\/toph.co\/c\/cuet-inter-university-codestorm-1-0\/standings",
+                "totalParticipatingTeam": 100,
+                "universityTeams": [
+                    {
+                        "rank": 82,
+                        "totalSolved": 1,
+                        "penalty": 3,
                         "teamName": "SMUCT_Labyrinth_Leets",
                         "teamMembers": [
                             "N\/A",
