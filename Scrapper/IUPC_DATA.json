@@ -1,0 +1,2064 @@
+[
+    {
+        "universityShortName": "SUST",
+        "universityFullName": "Shahjalal University of Science & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 1,
+                        "totalSolved": 8,
+                        "penalty": 642,
+                        "teamName": "SUST_GuessForces",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 4,
+                        "totalSolved": 7,
+                        "penalty": 1098,
+                        "teamName": "SnackAttack",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 5,
+                        "totalSolved": 6,
+                        "penalty": 647,
+                        "teamName": "SUST_Alfeh",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 26,
+                        "totalSolved": 5,
+                        "penalty": 751,
+                        "teamName": "SUST_tripleA",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 30,
+                        "totalSolved": 4,
+                        "penalty": 337,
+                        "teamName": "The SUSTainables",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 35,
+                        "totalSolved": 4,
+                        "penalty": 437,
+                        "teamName": "SUST_BugCraftsMen_again",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 39,
+                        "totalSolved": 4,
+                        "penalty": 502,
+                        "teamName": "Committeer Team",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 46,
+                        "totalSolved": 4,
+                        "penalty": 619,
+                        "teamName": "SUST_Oporanho",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 54,
+                        "totalSolved": 3,
+                        "penalty": 176,
+                        "teamName": "SUST_iupT1110",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 62,
+                        "totalSolved": 3,
+                        "penalty": 244,
+                        "teamName": "LogOut",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 63,
+                        "totalSolved": 3,
+                        "penalty": 247,
+                        "teamName": "SUST_RE:ZERO",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 65,
+                        "totalSolved": 3,
+                        "penalty": 268,
+                        "teamName": "SUST_USA_newbie",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 71,
+                        "totalSolved": 3,
+                        "penalty": 302,
+                        "teamName": "SUST_GOKU_squad",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 82,
+                        "totalSolved": 3,
+                        "penalty": 374,
+                        "teamName": "SUST_Hip-Hop-Hooray",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 85,
+                        "totalSolved": 3,
+                        "penalty": 399,
+                        "teamName": "SUST_Syntax_Error",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 94,
+                        "totalSolved": 3,
+                        "penalty": 530,
+                        "teamName": "SUST_LateForces",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 97,
+                        "totalSolved": 3,
+                        "penalty": 568,
+                        "teamName": "RunTime_Error",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 98,
+                        "totalSolved": 2,
+                        "penalty": 45,
+                        "teamName": "Rank_Underdogs",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 100,
+                        "totalSolved": 2,
+                        "penalty": 78,
+                        "teamName": "GeminiOP",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 114,
+                        "totalSolved": 1,
+                        "penalty": 9,
+                        "teamName": "SUST_VEGETA_squad",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BUET",
+        "universityFullName": "Bangladesh University of Engineering & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 2,
+                        "totalSolved": 8,
+                        "penalty": 979,
+                        "teamName": "Buet_Nightfall",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 11,
+                        "totalSolved": 6,
+                        "penalty": 889,
+                        "teamName": "BUET_Lost_Sailors",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 18,
+                        "totalSolved": 5,
+                        "penalty": 542,
+                        "teamName": "BUET_Tandem_Repeat",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 28,
+                        "totalSolved": 4,
+                        "penalty": 235,
+                        "teamName": "BUET_Ragnarok",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 29,
+                        "totalSolved": 4,
+                        "penalty": 301,
+                        "teamName": "BUET Missing_Bits",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 96,
+                        "totalSolved": 3,
+                        "penalty": 566,
+                        "teamName": "BUET_MMA_Fighters",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BRACU",
+        "universityFullName": "BRAC University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 3,
+                        "totalSolved": 8,
+                        "penalty": 1094,
+                        "teamName": "BRACU_Crows",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 44,
+                        "totalSolved": 4,
+                        "penalty": 551,
+                        "teamName": "BRACU_BugWhisperers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 84,
+                        "totalSolved": 3,
+                        "penalty": 395,
+                        "teamName": "BRACU_StrawHatPirates",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "IUT",
+        "universityFullName": "Islamic University of Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 6,
+                        "totalSolved": 6,
+                        "penalty": 678,
+                        "teamName": "IUT_Shongshoptok",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 24,
+                        "totalSolved": 5,
+                        "penalty": 703,
+                        "teamName": "IUT_Oikotaan",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 56,
+                        "totalSolved": 3,
+                        "penalty": 177,
+                        "teamName": "IUT_Rupkotha",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "KUET",
+        "universityFullName": "Khulna University of Engineering & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 7,
+                        "totalSolved": 6,
+                        "penalty": 691,
+                        "teamName": "KUET_ScatterBrains",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 12,
+                        "totalSolved": 6,
+                        "penalty": 900,
+                        "teamName": "Code_monkeys!",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 13,
+                        "totalSolved": 6,
+                        "penalty": 949,
+                        "teamName": "KUET_Effervescent",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 34,
+                        "totalSolved": 4,
+                        "penalty": 431,
+                        "teamName": "KUET_ByteBlitz",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "DU",
+        "universityFullName": "University of Dhaka",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 8,
+                        "totalSolved": 6,
+                        "penalty": 701,
+                        "teamName": "DU_Void",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 9,
+                        "totalSolved": 6,
+                        "penalty": 808,
+                        "teamName": "DU_998ms",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 33,
+                        "totalSolved": 4,
+                        "penalty": 429,
+                        "teamName": "DU_Gladiators",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 41,
+                        "totalSolved": 4,
+                        "penalty": 529,
+                        "teamName": "DU_NoClueYet",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 69,
+                        "totalSolved": 3,
+                        "penalty": 291,
+                        "teamName": "DU_\u09a6\u09cd\u09ac\u09bf\u0995\u09b2\u09a8",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "CoU",
+        "universityFullName": "Comilla University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 10,
+                        "totalSolved": 6,
+                        "penalty": 849,
+                        "teamName": "CoU_NextDreamers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 78,
+                        "totalSolved": 3,
+                        "penalty": 347,
+                        "teamName": "CoU_Debug_Entity",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 103,
+                        "totalSolved": 2,
+                        "penalty": 127,
+                        "teamName": "CoU_SegmentHero",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "JUST",
+        "universityFullName": "Jessore University of Science & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 14,
+                        "totalSolved": 5,
+                        "penalty": 427,
+                        "teamName": "JUST_LIMITLESS",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 48,
+                        "totalSolved": 3,
+                        "penalty": 94,
+                        "teamName": "JUST_TrinomialCodecast",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "MBSTU",
+        "universityFullName": "Mawlana Bhashani Science & Technology University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 15,
+                        "totalSolved": 5,
+                        "penalty": 453,
+                        "teamName": "MBSTU_Novatos",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 31,
+                        "totalSolved": 4,
+                        "penalty": 386,
+                        "teamName": "MBSTU_Lazy_Programmer",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 49,
+                        "totalSolved": 3,
+                        "penalty": 125,
+                        "teamName": "MBSTU_NP_HARD",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "AUST",
+        "universityFullName": "Ahsanullah University of Science and Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 16,
+                        "totalSolved": 5,
+                        "penalty": 469,
+                        "teamName": "AUST_RedX",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 101,
+                        "totalSolved": 2,
+                        "penalty": 102,
+                        "teamName": "AUST_Shunno7",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BU",
+        "universityFullName": "University of Barishal",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 17,
+                        "totalSolved": 5,
+                        "penalty": 525,
+                        "teamName": "BU_FrozzenHorse",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 109,
+                        "totalSolved": 2,
+                        "penalty": 268,
+                        "teamName": "BU MatrixMinds",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "CUET",
+        "universityFullName": "Chittagong University of Engineering & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 19,
+                        "totalSolved": 5,
+                        "penalty": 557,
+                        "teamName": "Trio Leveling",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 36,
+                        "totalSolved": 4,
+                        "penalty": 440,
+                        "teamName": "CUET_EQUINOX",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 66,
+                        "totalSolved": 3,
+                        "penalty": 275,
+                        "teamName": "CUET_CodeCrafters",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 83,
+                        "totalSolved": 3,
+                        "penalty": 382,
+                        "teamName": "Three Caballeros",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "JU",
+        "universityFullName": "Jahangirnagar University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 20,
+                        "totalSolved": 5,
+                        "penalty": 561,
+                        "teamName": "JU_LoopTroop",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 21,
+                        "totalSolved": 5,
+                        "penalty": 605,
+                        "teamName": "JU_the0dd1out",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 45,
+                        "totalSolved": 4,
+                        "penalty": 613,
+                        "teamName": "JU_Kaizen",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "NSU",
+        "universityFullName": "North South University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 22,
+                        "totalSolved": 5,
+                        "penalty": 641,
+                        "teamName": "NSU_AshBrosFC",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 40,
+                        "totalSolved": 4,
+                        "penalty": 515,
+                        "teamName": "NSU_3UNSAT",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "IIUC",
+        "universityFullName": "International Islamic University Chittagong",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 23,
+                        "totalSolved": 5,
+                        "penalty": 702,
+                        "teamName": "IIUC_SuddenPlan",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 87,
+                        "totalSolved": 3,
+                        "penalty": 422,
+                        "teamName": "IIUC_Big_Brothers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "EWU",
+        "universityFullName": "East West University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 25,
+                        "totalSolved": 5,
+                        "penalty": 735,
+                        "teamName": "EWU_Constant_Factor",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 61,
+                        "totalSolved": 3,
+                        "penalty": 239,
+                        "teamName": "EWU_NotThreeDimension",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "RU",
+        "universityFullName": "University of Rajshahi",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 27,
+                        "totalSolved": 5,
+                        "penalty": 785,
+                        "teamName": "RU_NowOrNever",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 38,
+                        "totalSolved": 4,
+                        "penalty": 451,
+                        "teamName": "RU_SFS_2.0",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 74,
+                        "totalSolved": 3,
+                        "penalty": 331,
+                        "teamName": "RU_Alvish_Rings",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "PSTU",
+        "universityFullName": "Patuakhali Science And Technology University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 32,
+                        "totalSolved": 4,
+                        "penalty": 419,
+                        "teamName": "PSTU : MoonCalves",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "MIST",
+        "universityFullName": "Military Institute of Science & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 37,
+                        "totalSolved": 4,
+                        "penalty": 443,
+                        "teamName": "MIST_FrostByte_1.3",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 112,
+                        "totalSolved": 1,
+                        "penalty": 5,
+                        "teamName": "MIST_Genesis",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "IU",
+        "universityFullName": "Islamic University, Bangladesh",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 42,
+                        "totalSolved": 4,
+                        "penalty": 530,
+                        "teamName": "IU_Waving_Flag",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BUBT",
+        "universityFullName": "Bangladesh University of Business & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 43,
+                        "totalSolved": 4,
+                        "penalty": 543,
+                        "teamName": "BUBT_AlphaQForces",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "MU",
+        "universityFullName": "Metropolitan University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 47,
+                        "totalSolved": 3,
+                        "penalty": 72,
+                        "teamName": "MU_altF4",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 102,
+                        "totalSolved": 2,
+                        "penalty": 105,
+                        "teamName": "MU_Yandere_Hunters",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 105,
+                        "totalSolved": 2,
+                        "penalty": 226,
+                        "teamName": "MU_C+=c",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 106,
+                        "totalSolved": 2,
+                        "penalty": 252,
+                        "teamName": "MU_!Geniuses",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "UITS",
+        "universityFullName": "University of Information Technology & Sciences",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 50,
+                        "totalSolved": 3,
+                        "penalty": 161,
+                        "teamName": "UITS_O(struggle)",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "DIU",
+        "universityFullName": "Daffodil International University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 51,
+                        "totalSolved": 3,
+                        "penalty": 166,
+                        "teamName": "DIU_Wolfpack",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "UIU",
+        "universityFullName": "United International University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 52,
+                        "totalSolved": 3,
+                        "penalty": 168,
+                        "teamName": "UIU_Metamorphosis01",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "UAP",
+        "universityFullName": "University of Asia Pacific",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 53,
+                        "totalSolved": 3,
+                        "penalty": 168,
+                        "teamName": "Uap_Amogus",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 79,
+                        "totalSolved": 3,
+                        "penalty": 349,
+                        "teamName": "UAP_Tenacious_Titans",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "RUET",
+        "universityFullName": "Rajshahi University of Engineering and Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 55,
+                        "totalSolved": 3,
+                        "penalty": 176,
+                        "teamName": "RUET_i\/0",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 67,
+                        "totalSolved": 3,
+                        "penalty": 285,
+                        "teamName": "RUET_TTF",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 76,
+                        "totalSolved": 3,
+                        "penalty": 339,
+                        "teamName": "RUET_ALTernators",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 111,
+                        "totalSolved": 1,
+                        "penalty": 4,
+                        "teamName": "RUET_Eliminated",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "GUB",
+        "universityFullName": "Green University of Bangladesh",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 57,
+                        "totalSolved": 3,
+                        "penalty": 197,
+                        "teamName": "Gub_Legen_wait_for_it",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "SEC",
+        "universityFullName": "Sylhet Engineering College",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 58,
+                        "totalSolved": 3,
+                        "penalty": 206,
+                        "teamName": "SEC_LATERALUS",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 86,
+                        "totalSolved": 3,
+                        "penalty": 410,
+                        "teamName": "SEC_NotSureYet",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 91,
+                        "totalSolved": 3,
+                        "penalty": 471,
+                        "teamName": "SEC_Contrivers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 93,
+                        "totalSolved": 3,
+                        "penalty": 512,
+                        "teamName": "SEC_BinaryTernary",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "NSTU",
+        "universityFullName": "Noakhali Science & Technology University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 59,
+                        "totalSolved": 3,
+                        "penalty": 207,
+                        "teamName": "NSTU_Eternity",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "SIU",
+        "universityFullName": "Sylhet International University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 60,
+                        "totalSolved": 3,
+                        "penalty": 207,
+                        "teamName": "SIU WIZARDS",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 120,
+                        "totalSolved": 0,
+                        "penalty": 0,
+                        "teamName": "Error 404 Trio",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "IUB",
+        "universityFullName": "Independent University, Bangladesh",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 64,
+                        "totalSolved": 3,
+                        "penalty": 267,
+                        "teamName": "IUB_BinaryBots",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "DUET",
+        "universityFullName": "Dhaka University of Engineering and Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 68,
+                        "totalSolved": 3,
+                        "penalty": 286,
+                        "teamName": "Still_Alive",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "EDU",
+        "universityFullName": "East Delta University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 70,
+                        "totalSolved": 3,
+                        "penalty": 300,
+                        "teamName": "EDU_CoPRIME",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "AIUB",
+        "universityFullName": "American International University-Bangladesh",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 72,
+                        "totalSolved": 3,
+                        "penalty": 307,
+                        "teamName": "AIUB_Ceiling0.3",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "NU",
+        "universityFullName": "National University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 73,
+                        "totalSolved": 3,
+                        "penalty": 324,
+                        "teamName": "IST_neverGiveUp",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "CU",
+        "universityFullName": "University of Chittagong",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 75,
+                        "totalSolved": 3,
+                        "penalty": 333,
+                        "teamName": "CU_ChunoPuti",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "LU",
+        "universityFullName": "Leading University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 77,
+                        "totalSolved": 3,
+                        "penalty": 346,
+                        "teamName": "LU_dAREdevils",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 81,
+                        "totalSolved": 3,
+                        "penalty": 372,
+                        "teamName": "LU MageMasters",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 99,
+                        "totalSolved": 2,
+                        "penalty": 72,
+                        "teamName": "LU_X_NOR",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    },
+                    {
+                        "rank": 113,
+                        "totalSolved": 1,
+                        "penalty": 8,
+                        "teamName": "LU_Dead_Soldiers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BSMRUK",
+        "universityFullName": "Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 80,
+                        "totalSolved": 3,
+                        "penalty": 358,
+                        "teamName": "BSMRU_NewHorizon",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "VU",
+        "universityFullName": "Varendra University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 88,
+                        "totalSolved": 3,
+                        "penalty": 424,
+                        "teamName": "VU_Strangers",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BUP",
+        "universityFullName": "Bangladesh University of Professionals",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 89,
+                        "totalSolved": 3,
+                        "penalty": 440,
+                        "teamName": "Mortal_Legion",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "DCC",
+        "universityFullName": "DHAKA CITY COLLEGE",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 90,
+                        "totalSolved": 3,
+                        "penalty": 467,
+                        "teamName": "DCC_PastPresentFuture",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BRUR",
+        "universityFullName": "Begum Rokeya University, Rangpur",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 92,
+                        "totalSolved": 3,
+                        "penalty": 489,
+                        "teamName": "BRUR_Undone",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "IUBAT",
+        "universityFullName": "International University of Business Agriculture & Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 95,
+                        "totalSolved": 3,
+                        "penalty": 534,
+                        "teamName": "IUBAT_Potato_Mind",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "NEUB",
+        "universityFullName": "North East University Bangladesh",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 104,
+                        "totalSolved": 2,
+                        "penalty": 202,
+                        "teamName": "NEUB_BELIEVERS",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "SHU",
+        "universityFullName": "Sheikh Hasina University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 107,
+                        "totalSolved": 2,
+                        "penalty": 263,
+                        "teamName": "Rebooters_SHU",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "HSTU",
+        "universityFullName": "Hajee Mohammad Danesh Science & Technology University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 108,
+                        "totalSolved": 2,
+                        "penalty": 266,
+                        "teamName": "HSTU_ChandraBindu",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "BAIUST",
+        "universityFullName": "BAIUST, Comilla",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 110,
+                        "totalSolved": 2,
+                        "penalty": 546,
+                        "teamName": "BAIUST_PeriColoso",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "MEC",
+        "universityFullName": "Mymensingh Engineering College",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 115,
+                        "totalSolved": 1,
+                        "penalty": 16,
+                        "teamName": "MEC_ALGO_SCHOLARS",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "SMUCT",
+        "universityFullName": "Shanto-Mariam University of Creative Technology",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 116,
+                        "totalSolved": 1,
+                        "penalty": 23,
+                        "teamName": "SMUCT_Labyrinth_Leets",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "SEU",
+        "universityFullName": "Southeast University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 117,
+                        "totalSolved": 1,
+                        "penalty": 29,
+                        "teamName": "SEU_!N0PS",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "NITER",
+        "universityFullName": "National Institute of Textile Engineering and Research - NITER",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 118,
+                        "totalSolved": 1,
+                        "penalty": 33,
+                        "teamName": "NITER CodeSpecters",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "universityShortName": "CIU",
+        "universityFullName": "Chittagong Independent University",
+        "data": [
+            {
+                "contestTitle": "Inter University Programming Contest - SUST CSE Carnival 2024",
+                "contestDate": "2024-02-18",
+                "standingLink": "https:\/\/toph.co\/c\/inter-university-sust-cse-carnival-2024\/standings",
+                "totalParticipatingTeam": 120,
+                "universityTeams": [
+                    {
+                        "rank": 119,
+                        "totalSolved": 1,
+                        "penalty": 227,
+                        "teamName": "Hidden_leaf",
+                        "teamMembers": [
+                            "N\/A",
+                            "N\/A",
+                            "N\/A"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

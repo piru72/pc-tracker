@@ -1,16 +1,9 @@
-import requests
-import pandas as pd
 import re
+
+import requests
 from bs4 import BeautifulSoup
-
-
-# Contest details
-CONTEST_NAME = 'CUET Inter University Codestorm 1.0'
-CONTEST_URL = 'https://toph.co/c/cuet-inter-university-codestorm-1-0/standings'
-CONTEST_DATE = '2024-01-26'
-CONTEST_PLATFORM = 'Toph'
-
-
+from Contest_Details import CONTEST_URL
+from University_Names import universityNames
 
 
 def get_ranking(row):
@@ -23,14 +16,18 @@ def get_ranking(row):
             break
     return ranking
 
+
 def get_team_name(detailsCol):
     return detailsCol.contents[0].text
+
 
 def get_university(detailsCol):
     return detailsCol.find('div', class_="adjunct").text
 
+
 def get_solved(verdictCol):
     return verdictCol.find('strong').text
+
 
 def get_penalty(verdictCol):
     div_adjunct = verdictCol.find('div', class_='adjunct')
@@ -40,6 +37,17 @@ def get_penalty(verdictCol):
         if numeric_value:
             return numeric_value.group(0)
     return 'DUMMY'
+
+
+def get_short_name(full_name):
+    return universityNames.get(full_name, 'N/A')
+
+
+def get_full_name(short_name):
+    for full_name, short in universityNames.items():
+        if short == short_name:
+            return full_name
+    return 'N/A'
 
 
 data = requests.get(CONTEST_URL).text
@@ -81,8 +89,7 @@ for row in table.find_all('tr'):
     # Check if the team is already in the list
     if teamName in team_names:
         continue
-    
-    
+
     verdictCol = row.find('td', class_='primary')
     solved = get_solved(verdictCol)
     penalty = get_penalty(verdictCol)
@@ -93,31 +100,3 @@ for row in table.find_all('tr'):
     universities.append(university)
     solved_list.append(solved)
     penalty_list.append(penalty)
-
-
-# Creating a dictionary to store the values
-standings_list = []
-for ranking, team_name, university, solved, penalty in zip(rankings, team_names, universities, solved_list, penalty_list):
-    standings_list.append({
-        'Ranking': ranking,
-        'Team Name': team_name,
-        'University': university,
-        'Solved': solved,
-        'Penalty': penalty
-    })
-
-# Creating a dictionary to store the values
-data = {'Standings': standings_list}
-
-# Creating a dataframe
-contest_details = {
-    'name': CONTEST_NAME,
-    'date': CONTEST_DATE,
-    'platform': CONTEST_PLATFORM,
-    'url': CONTEST_URL,
-    'standings': data
-}
-
-df = pd.DataFrame(contest_details)
-df.to_json('contest_details.json', orient='records')
-
