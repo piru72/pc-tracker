@@ -6,6 +6,31 @@ const iupc_data: CONTEST_DATA[] = [
         universityShortName: 'AUST',
         data: [
             {
+                contestTitle: 'IUT 11th National ICT Fest Programming Contest 2024',
+                contestDate: '2024-04-27',
+                standingLink: 'https://toph.co/c/iut-11th-national-ict-fest-2024/standings',
+                totalParticipatingTeam: 108,
+
+                universityTeams: [
+
+                    {
+                        rank: 14,
+                        totalSolved: 3,
+                        penalty: 422,
+                        teamName: 'AUST_RedX',
+                        teamMembers: ['NIRJOY DEBNATH', 'SOHOM MUNASIB SAHAUN', 'MOHAMMED ABDULLAH-AL SAJID']
+                    },
+                    {
+                        rank: 34,
+                        teamName: 'AUST_Shunno7',
+                        totalSolved: 2,
+                        penalty: 222,
+                        teamMembers: ['APU DAS', 'FATIN ISHRAQ', 'GOLAM IBNA HAMZA']
+                    },
+
+                ]
+            },
+            {
                 contestTitle: 'SUST CSE Carnival 2024 IUPC',
                 contestDate: '2024-02-18',
                 standingLink: 'https://toph.co/c/inter-university-sust-cse-carnival-2024/standings',

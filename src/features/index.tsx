@@ -6,6 +6,7 @@ import ContestSummaryTable from './contests/components/ContestSummaryTable';
 const universityShortName = 'AUST';
 const universityFullName = 'Ahsanullah University of Science and Technology';
 const Index = () => {
+    const iupc_data = getIUPCData();
 
     return (
         <Box maxW="10xl" mx={'auto'} pt={5} px={{ base: 2, sm: 12, md: 17 }}>
@@ -21,7 +22,7 @@ const Index = () => {
                 <TabPanels>
                     <TabPanel>
                         <ContestSummaryTable
-                            contestData={getIUPCData()}
+                            contestData={iupc_data}
                             universityShortName={universityShortName} />
                     </TabPanel>
                     <TabPanel>
