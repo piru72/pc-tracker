@@ -82,6 +82,24 @@ const iupc_data: CONTEST_DATA[] = [
                 ]
             },
             {
+                contestTitle: 'CoU-BRACNet Inter University Programming Contest 2023',
+                contestDate: '2023-09-16',
+                standingLink: 'https://toph.co/c/cou-bracnet-inter-university-2023/standings',
+                totalParticipatingTeam: 59,
+
+                universityTeams: [
+
+                    {
+                        rank: 20,
+                        totalSolved: 4,
+                        penalty: 302,
+                        teamName: 'AUST_RedX',
+                        teamMembers: ['NIRJOY DEBNATH', 'APU DAS', 'GOLAM IBNA HAMZA']
+                    },
+
+                ]
+            },
+            {
                 contestTitle: 'BUET Inter University Programming Contest 2023',
                 contestDate: '2023-07-28',
                 standingLink: 'https://toph.co/c/buet-inter-university-2023/standings',
@@ -122,7 +140,145 @@ const iupc_data: CONTEST_DATA[] = [
                     },
                     
                 ]
-            }
+            },
+            {
+                contestTitle: 'BUET Inter University Programming Contest 2022',
+                contestDate: '2022-08-02',
+                standingLink: 'https://toph.co/c/buet-inter-university-2022/standings',
+                totalParticipatingTeam: 114,
+
+                universityTeams: [
+                    {
+                        rank: 26,
+                        teamName: 'AUST_Onslaught',
+                        totalSolved: 3,
+                        penalty: 179,
+                        teamMembers: ['TASHFIQ AHMED TASIN', 'ALAM KHAN', 'NIRJOY DEBNATH']
+                    },
+                    {
+                        rank: 74,
+                        teamName: 'AUST_SillyMistakes',
+                        totalSolved: 2,
+                        penalty: 113,
+                        teamMembers: ['PARVEZ MIA', 'MOHAMMED ABDULLAH-AL SAJID', 'GOLAM IBNA HAMZA']
+                    },
+                    
+                ]
+            },
+            {
+                contestTitle: 'Cefalo CodeFiesta 2022: AUST IUPC',
+                contestDate: '2022-06-25',
+                standingLink: 'https://algo.codemarshal.org/contests/aust-2022/standings',
+                totalParticipatingTeam: 0,
+
+                universityTeams: [
+                    {
+                        rank: 19,
+                        teamName: 'AUST_Mercenaries',
+                        totalSolved: 0,
+                        penalty: 0,
+                        teamMembers: ['TASHFIQ AHMED TASIN', 'ALAM KHAN', 'NIRJOY DEBNATH']
+                    },
+                    {
+                        rank: 53,
+                        teamName: 'AUST_SLYTHERIN',
+                        totalSolved: 0,
+                        penalty: 0,
+                        teamMembers: ['SOHOM MUNASIB SAHAUN', 'MOHAMMED ABDULLAH-AL SAJID', 'GOLAM IBNA HAMZA']
+                    },
+                    {
+                        rank: 79,
+                        teamName: 'AUST_Ethereal',
+                        totalSolved: 0,
+                        penalty: 0,
+                        teamMembers: ['RAHAT CHOWDHURY', 'FAHMIDUR RAHMAN', 'SHAWPNIL SHARMA SARKER']
+                    },
+                    {
+                        rank: 80,
+                        teamName: 'AUST_0Degree',
+                        totalSolved: 0,
+                        penalty: 0,
+                        teamMembers: ['MD. KAMROZZAMAN BHUIYAN', 'HASIB HOSSAIN SHAKIL', 'ISRAT JAHAN RITHY']
+                    },
+                    {
+                        rank: 94,
+                        teamName: 'AUST_RAZE',
+                        totalSolved: 0,
+                        penalty: 0,
+                        teamMembers: ['ALI HAIDER TALUKDER AKIB', 'TAJRIAN ISLAM ISHAN', 'FAHIM A R AKIL']
+                    },
+                    
+                ]
+            },
+            {
+                contestTitle: 'UAP Inter University Collaborative Programming Contest 1.0 (Senior)',
+                contestDate: '2024-01-28',
+                standingLink: 'https://toph.co/c/uap-inter-university-collaborative-1-0-senior/standings',
+                totalParticipatingTeam: 42,
+
+                universityTeams: [
+
+                    {
+                        rank: 1,
+                        totalSolved: 5,
+                        penalty: 870,
+                        teamName: 'AUST_RedX',
+                        teamMembers: ['NIRJOY DEBNATH', 'SOHOM MUNASIB SAHAUN', 'GOLAM IBNA HAMZA']
+                    },
+                    {
+                        rank: 2,
+                        teamName: 'AUST_Samakal',
+                        totalSolved: 5,
+                        penalty: 1000,
+                        teamMembers: ['FAHMIDUR RAHMAN', 'SHAWPNIL SHARMA SARKER', 'MD MEHEDI ISLAM REMON']
+                    },
+                    {
+                        rank: 28,
+                        teamName: 'AUST_Potatoes',
+                        totalSolved: 1,
+                        penalty: 8,
+                        teamMembers: ['N/A', 'N/A', 'N/A']
+                    },
+                    {
+                        rank: 31,
+                        teamName: 'AUST_Shunno7',
+                        totalSolved: 1,
+                        penalty: 13,
+                        teamMembers: ['N/A', 'N/A', 'N/A']
+                    },
+                ]
+            },
+            {
+                contestTitle: 'UAP Inter University Collaborative Programming Contest 1.0 (Junior)',
+                contestDate: '2024-01-27',
+                standingLink: 'https://toph.co/c/uap-inter-university-collaborative-1-0-senior/standings',
+                totalParticipatingTeam: 69,
+
+                universityTeams: [
+
+                    {
+                        rank: 2,
+                        totalSolved: 11,
+                        penalty: 1000,
+                        teamName: 'Aust_Crazy_Bunch',
+                        teamMembers: ['N/A', 'N/A', 'N/A']
+                    },
+                    {
+                        rank: 14,
+                        teamName: 'AUST_BIT_Blitz',
+                        totalSolved: 7,
+                        penalty: 663,
+                        teamMembers: ['N/A', 'N/A', 'N/A']
+                    },
+                    {
+                        rank: 20,
+                        teamName: 'AUST_PainInvestigators',
+                        totalSolved: 5,
+                        penalty: 196,
+                        teamMembers: ['JULKER NAYEEN KARIM', 'EUSHA AHMED MAHI', 'MD. AL AMIN']
+                    },
+                ]
+            },
         ]
     }
 
