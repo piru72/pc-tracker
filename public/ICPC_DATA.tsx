@@ -95,7 +95,48 @@ const icpc_data: CONTEST_DATA[] = [
                         teamMembers: ['TASHFIQ AHMED TASIN', 'ALAM KHAN', 'NIRJOY DEBNATH']
                     },
                 ]
-            }
+            },
+            {
+                contestTitle: 'ICPC Asia Dhaka Regional Contest 2021',
+                contestDate: '2022-10-08',
+                standingLink: 'https://icpc.global/regionals/finder/Dhaka-2022/standings',
+                totalParticipatingTeam: 161,
+
+                universityTeams: [
+                    {
+                        rank: 27,
+                        teamName: 'AUST_Onslaught',
+                        totalSolved: 4,
+                        penalty: 452,
+                        teamMembers: ['TASHFIQ AHMED TASIN', 'ALAM KHAN', 'NIRJOY DEBNATH']
+                    },
+                    {
+                        rank: 61,
+                        teamName: 'Aust_0Degree',
+                        totalSolved: 3,
+                        penalty: 338,
+                        teamMembers: ['MD. KAMROZZAMAN BHUIYAN', 'HASIB HOSSAIN SHAKIL', 'ISRAT JAHAN RITHY']
+                    },
+                    
+                ]
+            },
+            {
+                contestTitle: 'ICPC Asia West Continent Final Contest 2022',
+                contestDate: '2023-05-20',
+                standingLink: 'https://icpc.global/regionals/finder/ICPCKolkataKanpur-2023/standings',
+                totalParticipatingTeam: 60,
+
+                universityTeams: [
+                    {
+                        rank: 51,
+                        teamName: 'AUST_CrackPlatoon',
+                        totalSolved: 4,
+                        penalty: 45856,
+                        teamMembers: ['APU DAS', 'GOLAM IBNA HAMZA', 'MOHAMMED ABDULLAH-AL SAJID']
+                    },
+                    
+                ]
+            },
         ]
     }
 
