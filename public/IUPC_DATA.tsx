@@ -261,7 +261,7 @@ const iupc_data: CONTEST_DATA[] = [
                         totalSolved: 11,
                         penalty: 1000,
                         teamName: 'Aust_Crazy_Bunch',
-                        teamMembers: ['N/A', 'N/A', 'N/A']
+                        teamMembers: ['RAFY BHUIYAN', 'RAJIUN SALIHAN NABI', 'RAKIB HASAN']
                     },
                     {
                         rank: 14,
