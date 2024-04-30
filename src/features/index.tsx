@@ -1,6 +1,6 @@
 import { Box, Tab, TabList, TabPanel, TabPanels, Tabs } from '@chakra-ui/react';
 import SectionTitle from '../components/title/SectionTitle';
-import { getIUPCData, getICPCData, getNCPCData } from '../controllers/ContestController'
+import { getIUPCData, getICPCData , getContestData } from '../controllers/ContestController'
 import ContestSummaryTable from './contests/components/ContestSummaryTable';
 
 const universityShortName = 'AUST';
@@ -8,7 +8,7 @@ const universityFullName = 'Ahsanullah University of Science and Technology';
 const Index = () => {
     const iupc_data = getIUPCData();
     const icpc_data = getICPCData();
-    const ncpc_data = getNCPCData();
+    const ncpc_data = getContestData('NCPC');
     const contestName = ['IUPC', 'ICPC', 'NCPC']
     const contestData = [iupc_data, icpc_data, ncpc_data];
     return (
