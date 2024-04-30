@@ -89,6 +89,7 @@ export default function readContestData(selectedContestType: string) {
                 const parsedData = Papa.parse(csvData, {
                     header: true,
                     skipEmptyLines: true,
+                    delimiter: ',',
                 });
 
                 if (parsedData.errors.length > 0) {
