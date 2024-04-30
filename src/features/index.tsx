@@ -1,6 +1,6 @@
 import { Box, Tab, TabList, TabPanel, TabPanels, Tabs } from '@chakra-ui/react';
 import SectionTitle from '../components/title/SectionTitle';
-import { getContestData, getIUPCData } from '../controllers/ContestController';
+import { getContestData } from '../controllers/ContestController';
 import ContestSummaryTable from './contests/components/ContestSummaryTable';
 
 const universityShortName = 'AUST';
