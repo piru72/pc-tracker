@@ -36,7 +36,7 @@ function convertToContestData(csvRow: any): CONTEST_DATA {
 }
 
 function manipulateData(parsedData: any) {
-    
+
 
     const universityData: any = {};
 
@@ -75,7 +75,6 @@ function manipulateData(parsedData: any) {
 
     return universities;
 
-   
 }
 
 export default function readContestData(selectedContestType: string) {
@@ -95,11 +94,11 @@ export default function readContestData(selectedContestType: string) {
                 if (parsedData.errors.length > 0) {
                     console.error('Error parsing CSV:', parsedData.errors);
                 } else {
-                    const constructedData = parsedData.data.map((row: any) => {
-                        if (row.contestType === selectedContestType) {
-                            return convertToContestData(row);
-                        }
-                      });
+                    const constructedData = parsedData.data
+                        .filter((row: any) => row.contestType === selectedContestType) // Filter out rows where contestType doesn't match selectedContestType
+                        .map((row: any) => convertToContestData(row));
+
+
                     setJsonData(manipulateData(constructedData));
                 }
             } catch (error) {
@@ -112,7 +111,7 @@ export default function readContestData(selectedContestType: string) {
         fetchCsvData();
     }, []);
 
-    
+
 
     return jsonData;
 }
