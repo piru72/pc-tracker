@@ -4,18 +4,18 @@ function extractTeamMembersNames(data: any) {
     let teamMembersNamesMap: Map<string, number> = new Map();
     if (data) {
         let size = data.length;
-        console.log(size);
+        //console.log(size);
         for (let i = 0; i < size; i += 1) {
-            console.log(data[i].universityTeams);
+           // console.log(data[i].universityTeams);
             if (data[i].universityTeams) {
                 let teamCount = data[i].universityTeams.length;
                 for (let j = 0; j < teamCount; j += 1) {
 
                     if (data[i].universityTeams[j]) {
                         if (data[i].universityTeams[j].teamMembers) {
-                            console.log(data[i].universityTeams[j].teamMembers);
+                           // console.log(data[i].universityTeams[j].teamMembers);
                             for (let k = 0; k < 3; k += 1) {
-                                console.log(data[i].universityTeams[j].teamMembers[k]);
+                                //console.log(data[i].universityTeams[j].teamMembers[k]);
                                 let name: string = data[i].universityTeams[j].teamMembers[k];
                                 name = name.toUpperCase();
                                 if (teamMembersNamesMap.has(name)) {

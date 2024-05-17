@@ -23,10 +23,46 @@ export default function Index() {
             backdropFilter='blur(10px) hue-rotate(0deg)'
         />
     )
+    let finalData: any = new Set();
+
+    const getContestantContestData = (contestantName: string, contest: any) => {
+
+
+        contest.forEach((university: any) => {
+            let universityData = university.data;
+
+            universityData.forEach((data: any) => {
+                let universityTeams = data.universityTeams;
+
+                universityTeams.forEach((team: any) => {
+                    let teamMembers = team.teamMembers;
+
+                    teamMembers.forEach((member: string) => {
+                        if (member === contestantName) {
+                            finalData.add(data);
+                        }
+                    });
+                });
+            });
+        });
+    }
+    const getContestantData = (contestantName: string) => {
+
+        finalData.clear();
+        getContestantContestData(contestantName, iupc_data);
+        getContestantContestData(contestantName, icpc_data);
+        getContestantContestData(contestantName, ncpc_data);
+        finalData = Array.from(finalData).sort((a: any, b: any) => {
+            return new Date(b.contestDate).getTime() - new Date(a.contestDate).getTime()
+        });
+        setContestantData(finalData);
+
+    }
 
     const { isOpen, onOpen, onClose } = useDisclosure()
     const [overlay, setOverlay] = React.useState(<OverlayOne />)
     const [contestantName, setContestantName] = React.useState('')
+    const [contestantData, setContestantData] = React.useState(finalData)
     return (
 
         <>
@@ -40,6 +76,7 @@ export default function Index() {
                                 setOverlay(<OverlayOne />)
                                 onOpen()
                                 setContestantName(name)
+                                getContestantData(name)
                             }}>
                             <StatsCard key={index}
                                 name={name}
@@ -52,7 +89,9 @@ export default function Index() {
             <Modal isCentered isOpen={isOpen} onClose={onClose} size='5xl'>
                 {overlay}
                 <ModalContent >
-                    <ModalContentExtended contestantName={contestantName} />
+                    <ModalContentExtended
+                        contestantName={contestantName}
+                        contestantData={contestantData} />
                 </ModalContent>
             </Modal>
         </>

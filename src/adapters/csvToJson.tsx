@@ -82,7 +82,7 @@ export default function readContestData(selectedContestType: string) {
     useEffect(() => {
         const fetchCsvData = async () => {
             try {
-                const response = await fetch('/data.csv');
+                const response = await fetch('data/data.csv');
                 const csvData = await response.text();
 
                 const parsedData = Papa.parse(csvData, {
