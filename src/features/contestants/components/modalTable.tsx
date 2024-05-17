@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { Box, ButtonGroup, Divider, Heading, ModalFooter, Table, TableCaption, TableContainer, Tbody, Th, Thead, Tr, Text, Td } from '@chakra-ui/react';
+import { formatDate } from '../../../utils/helpers';
 
 
 interface ModalContentExtendedProps {
@@ -11,7 +12,7 @@ interface ModalContentExtendedProps {
 }
 
 const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantName, contestantData }) => {
-    const ModalTableHeads = ['Contest Name', 'Date', 'Rank', 'Team Name', 'Total Solved', 'Penalty']
+    const ModalTableHeads = ['Contest Name', 'Date', 'Rank', 'Team Name']
 
 
     console.log("From the modal", contestantData);
@@ -85,14 +86,11 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                                                     {secondLine.trim()}
                                                 </>
                                             </Td>
-                                            <Td textAlign='center'>{contest.contestDate}</Td>
+                                            <Td textAlign='center'>{formatDate(contest.contestDate)}</Td>
                                             <Td textAlign='center'>{rank}</Td>
                                             <Td textAlign='center'>
                                                 {teamName}
                                             </Td>
-                                            <Td textAlign='center'>{totalSolved}</Td>
-                                            <Td textAlign='center'>{penalty}</Td>
-                                            
                                         </Tr>
                                     );
                                 })

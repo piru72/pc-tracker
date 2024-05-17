@@ -1,8 +1,8 @@
 function formatDate(dateString: string): string {
     const dateParts: string[] = dateString.split('/');
-    const year: string = dateParts[0];
-    const month: string = dateParts[1];
-    const day: string = dateParts[2];
+    const year: string = dateParts[2];
+    const month: string = dateParts[0];
+    const day: string = dateParts[1];
 
 
     const monthNames: string[] = [
