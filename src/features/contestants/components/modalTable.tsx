@@ -60,9 +60,9 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                                     let universityTeams = contest.universityTeams;
                                     let teamName = '';
                                     let rank = 0;
-                                    let penalty = 0;
-                                    let totalSolved = 0;
-                                    let teamMembersF = [];
+                                    
+                                    
+                                    
 
                                     universityTeams.forEach((team: any) => {
                                         let teamMembers = team.teamMembers;
@@ -70,9 +70,6 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                                             if (member === contestantName) {
                                                 teamName = team.teamName;
                                                 rank = team.rank;
-                                                penalty = team.penalty;
-                                                totalSolved = team.totalSolved;
-                                                teamMembersF = teamMembers;
                                             }
                                         });
                                     });
