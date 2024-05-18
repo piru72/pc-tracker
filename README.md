@@ -38,16 +38,16 @@ As the project is mainly for the AUST Programming Contest Teams, the project is 
 
 # Features
 ## Summary of the contests
-![alt text](image.png)
+![alt text](project_screenshot/image.png)
 
 ## The details of the contests for downloading
-![alt text](image-1.png)
+![alt text](project_screenshot/image-1.png)
 
 ## The list of contestants
-![alt text](image-2.png)
+![alt text](project_screenshot/image-2.png)
 
 ## The details of the contestants
-![alt text](image-3.png)
+![alt text](project_screenshot/image-3.png)
 
 # Contributing
 
