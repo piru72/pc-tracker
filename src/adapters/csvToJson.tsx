@@ -104,7 +104,7 @@ export default function readContestData(selectedContestType: string) {
             } catch (error) {
                 console.error('Error fetching CSV:', error);
             } finally {
-                console.error('Data not fetched');
+                //console.error('Data not fetched');
             }
         };
 

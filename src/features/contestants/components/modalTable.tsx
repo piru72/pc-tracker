@@ -15,7 +15,7 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
     const ModalTableHeads = ['Contest Name', 'Date', 'Rank', 'Team Name']
 
 
-    console.log("From the modal", contestantData);
+    //console.log("From the modal", contestantData);
 
 
     return (

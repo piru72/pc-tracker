@@ -40,7 +40,7 @@ As the project is mainly for the AUST Programming Contest Teams, the project is 
 ## Summary of the contests
 ![alt text](image.png)
 
-## The details of the contests
+## The details of the contests for downloading
 ![alt text](image-1.png)
 
 ## The list of contestants
