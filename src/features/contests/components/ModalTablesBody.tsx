@@ -1,6 +1,6 @@
 import { ModalBody, ModalCloseButton, ModalHeader, Table, TableCaption, TableContainer, Tbody, Td, Th, Thead, Tr } from '@chakra-ui/react';
 import React from 'react';
-import TableDataRow from '../../../model/TableDataRowModel';
+import TableDataRow from '../../../model/TableDataRow';
 
 interface ModalTablesBodyProps {
     tableData: TableDataRow[];

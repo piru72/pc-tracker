@@ -1,7 +1,7 @@
-import { Heading, Modal, ModalContent, ModalOverlay, SimpleGrid, useDisclosure } from "@chakra-ui/react";
+import { Box, Heading, Modal, ModalContent, ModalOverlay, SimpleGrid, useColorModeValue, useDisclosure } from "@chakra-ui/react";
 import React from 'react';
 import { getFinalData, mergeMap } from '../../adapters/jsonToMap';
-import { getContestData } from '../../controllers/ContestController';
+import { getContestData } from '../../controllers/Contest';
 import ModalContentExtended from "./components/modalTable";
 import StatsCard from './components/statsCard';
 
@@ -66,8 +66,21 @@ export default function Index() {
     return (
 
         <>
-            <Heading>The List of contestants </Heading>
-            <SimpleGrid columns={{ base: 1, md: 5 }} spacing={10}>
+            <Box
+                px={{ base: 2, md: 4 }}
+                py={'5'}
+                shadow={'xl'}
+                border={'2px solid'}
+                borderColor={useColorModeValue('gray.800', 'gray.500')}
+                rounded={'lg'}
+                mb='5'
+                mt='5'>
+                <Heading mb='5'>The List of contestants </Heading>
+                <Heading size='s'>Click on the name to see the details</Heading>
+
+            </Box>
+
+            <SimpleGrid columns={{ base: 1, md: 3 }} spacing={10}>
                 {
                     Array.from(allStat.keys()).map((name, index) => (
 

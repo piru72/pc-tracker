@@ -1,8 +1,8 @@
 import { Button, ButtonGroup, Modal, ModalContent, ModalFooter, ModalOverlay, Table, TableCaption, TableContainer, Tbody, Td, Th, Thead, Tr, useDisclosure } from '@chakra-ui/react';
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import ContestModel from '../../../model/ContestModel';
-import TableDataRow from '../../../model/TableDataRowModel';
+import ContestModel from '../../../model/Contest';
+import TableDataRow from '../../../model/TableDataRow';
 import { formatDate } from '../../../utils/helpers';
 import ModalTablesBody from './ModalTablesBody';
 import { handleCaptureClick } from '../../../utils/DownloadImage';
