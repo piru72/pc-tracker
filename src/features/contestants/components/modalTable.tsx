@@ -67,7 +67,7 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                                     universityTeams.forEach((team: any) => {
                                         let teamMembers = team.teamMembers;
                                         teamMembers.forEach((member: string) => {
-                                            if (member === contestantName) {
+                                            if (member.toLocaleLowerCase() === contestantName.toLocaleLowerCase()) {
                                                 teamName = team.teamName;
                                                 rank = team.rank;
                                             }

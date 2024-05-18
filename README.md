@@ -34,13 +34,20 @@ docker compose up -d
 
 # Usage
 
-As mainly the project is for the AUST Programming Contest Team, the project is used to keep track of the performances of the team members in IUPC , ICPC ,NCPC. The project is hosted on vercel and can be accessed by the following link: https://aust-pc-tracker.vercel.app/ 
+As the project is mainly for the AUST Programming Contest Teams, the project is used to keep track of the performances of the team members in IUPC , ICPC ,NCPC. The project is hosted on vercel and can be accessed by the following link: https://aust-pc-tracker.vercel.app/ 
 
-## Seeing summary of the contest
+# Features
+## Summary of the contests
 ![alt text](image.png)
 
-## Seeing the details of the contest
+## The details of the contests
 ![alt text](image-1.png)
+
+## The list of contestants
+![alt text](image-2.png)
+
+## The details of the contestants
+![alt text](image-3.png)
 
 # Contributing
 
@@ -59,7 +66,7 @@ If you want to contribute to the project, you can follow the following steps:
 ## Adding a new contest
 1. Fork the project
 2. Clone the project
-3. Go to public/data.csv file
+3. Go to public/data/data.csv file
 4. Add the new contest details
 5. Push the changes
 6. Create a pull request

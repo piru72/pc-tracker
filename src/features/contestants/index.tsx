@@ -38,7 +38,7 @@ export default function Index() {
                     let teamMembers = team.teamMembers;
 
                     teamMembers.forEach((member: string) => {
-                        if (member === contestantName) {
+                        if (member.toLocaleLowerCase() === contestantName.toLocaleLowerCase()) {
                             finalData.add(data);
                         }
                     });
@@ -52,6 +52,7 @@ export default function Index() {
         getContestantContestData(contestantName, iupc_data);
         getContestantContestData(contestantName, icpc_data);
         getContestantContestData(contestantName, ncpc_data);
+        console.log("NCPC DATA" ,ncpc_data);
         finalData = Array.from(finalData).sort((a: any, b: any) => {
             return new Date(b.contestDate).getTime() - new Date(a.contestDate).getTime()
         });
