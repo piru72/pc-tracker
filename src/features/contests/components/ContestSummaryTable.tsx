@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import ContestModel from '../../../model/Contest';
 import TableDataRow from '../../../model/TableDataRow';
-import { formatDate } from '../../../utils/helpers';
+import { formatDate } from '../../../common/utils/helpers';
 import ModalTablesBody from './ModalTablesBody';
-import { handleCaptureClick } from '../../../utils/DownloadImage';
+import { handleCaptureClick } from '../../../common/utils/DownloadImage';
 interface ContestSummaryTableProps {
     contestData: ContestModel[];
     universityShortName: string;

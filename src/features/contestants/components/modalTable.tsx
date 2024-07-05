@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Box, ButtonGroup, Divider, Heading, ModalFooter, Table, TableCaption, TableContainer, Tbody, Th, Thead, Tr, Text, Td } from '@chakra-ui/react';
-import { formatDate } from '../../../utils/helpers';
+import { formatDate } from '../../../common/utils/helpers';
 
 
 interface ModalContentExtendedProps {
