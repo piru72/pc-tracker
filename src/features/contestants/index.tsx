@@ -4,11 +4,16 @@ import { getFinalData, mergeMap } from '../../adapters/jsonToMap';
 import { getContestData } from '../../controllers/Contest';
 import ModalContentExtended from "./components/modalTable";
 import StatsCard from './components/statsCard';
+import {
+    CONTEST_NAME,
+    THE_LIST_OF_CONTESTANTS,
+    CLICK_ON_THE_NAME_TO_SEE_THE_DETAILS
+} from "./constants/contestants.constant";
 
 export default function Index() {
-    const iupc_data = getContestData('IUPC');
-    const icpc_data = getContestData('ICPC');
-    const ncpc_data = getContestData('NCPC');
+    const iupc_data = getContestData(CONTEST_NAME.IUPC);
+    const icpc_data = getContestData(CONTEST_NAME.ICPC);
+    const ncpc_data = getContestData(CONTEST_NAME.NCPC);
 
     let iupcStats = getFinalData(iupc_data);
     let icpcStats = getFinalData(icpc_data);
@@ -76,8 +81,8 @@ export default function Index() {
                 rounded={'lg'}
                 mb='5'
                 mt='5'>
-                <Heading mb='5'>The List of contestants </Heading>
-                <Heading size='s'>Click on the name to see the details</Heading>
+                <Heading mb='5'> {THE_LIST_OF_CONTESTANTS} </Heading>
+                <Heading size='s'> {CLICK_ON_THE_NAME_TO_SEE_THE_DETAILS}</Heading>
 
             </Box>
 
