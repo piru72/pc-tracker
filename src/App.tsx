@@ -1,19 +1,13 @@
-import { Route, Routes } from 'react-router-dom';
+import { AppProvider } from './providers/AppProvider';
+import { AppRoutes } from './routes/Router';
 import './styles/App.css';
-import Index from './features/index';
 
 function App() {
-  
-
   return (
-    <>
-      <Routes>
-
-        <Route path="/" element={<Index />} />
-      
-      </Routes>
-    </>
-  )
+    <AppProvider>
+      <AppRoutes />
+    </AppProvider>
+  );
 }
 
 export default App
