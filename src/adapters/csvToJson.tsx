@@ -1,6 +1,6 @@
 import Papa from 'papaparse';
 import { useEffect, useState } from 'react';
-import CONTEST_DATA from '../model/Contest';
+import CONTEST_DATA from '../common/interfaces/contest.interface';
 
 function convertToContestData(csvRow: any): CONTEST_DATA {
     const universityShortName = csvRow.universityShortName || "";

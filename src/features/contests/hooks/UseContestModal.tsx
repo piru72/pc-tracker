@@ -1,6 +1,6 @@
 import { ModalOverlay, useDisclosure } from '@chakra-ui/react';
 import { useState } from 'react';
-import TableDataRow from '../../../model/TableDataRow';
+import TableDataRow from '../interfaces/tableDataRow.interface';
 
 const useContestModal = () => {
     const [selectedContestDetails, setSelectedContestDetails] = useState<TableDataRow[]>([]);

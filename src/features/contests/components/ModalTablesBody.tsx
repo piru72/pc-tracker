@@ -1,6 +1,7 @@
 import { ModalBody, ModalCloseButton, ModalHeader, Table, TableCaption, TableContainer, Tbody, Td, Th, Thead, Tr } from '@chakra-ui/react';
 import React from 'react';
-import TableDataRow from '../../../model/TableDataRow';
+import TableDataRow from '../interfaces/tableDataRow.interface';
+import {MODAL_TABLE_HEADS} from '../constants/modalTablesBody.constant';
 
 interface ModalTablesBodyProps {
     tableData: TableDataRow[];
@@ -8,7 +9,7 @@ interface ModalTablesBodyProps {
 }
 
 const ModalTablesBody: React.FC<ModalTablesBodyProps> = ({ tableData, selectedContestTitle }) => {
-    const ModalTableHeads = ['Rank', 'Team Name', 'Total Solved', 'Penalty', 'Team Members']
+    
     return (
         <>
             <ModalHeader textAlign={'center'}>{selectedContestTitle}</ModalHeader>
@@ -19,7 +20,7 @@ const ModalTablesBody: React.FC<ModalTablesBodyProps> = ({ tableData, selectedCo
                         <TableCaption></TableCaption>
                         <Thead>
                             <Tr>
-                                {ModalTableHeads.map((head, index) => (
+                                {MODAL_TABLE_HEADS.map((head, index) => (
                                     <Th key={index} textAlign='center'>{head}</Th>
                                 ))}
                             </Tr>

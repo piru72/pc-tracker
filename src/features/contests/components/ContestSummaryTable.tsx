@@ -1,8 +1,9 @@
 import { Table, TableCaption, TableContainer, Tbody } from '@chakra-ui/react';
-import ContestModel from '../../../model/Contest';
+import { CONTEST_DETAILS_DIV, MAIN_TABLE_HEADS } from '../constants/contestSummaryTable.constant';
 import useContestModal from '../hooks/UseContestModal';
+import ContestModel from '../../../common/interfaces/contest.interface';
 import ContestDetailsModal from './ContestDetailsModal';
-import TableHeader from './TableHeader';
+import TableHeader from '../../../components/tableHeader/TableHeader';
 import TableRows from './TableRows';
 
 interface ContestSummaryTableProps {
@@ -21,14 +22,13 @@ const ContestSummaryTable = ({ contestData, universityShortName }: ContestSummar
         selectedContestTitle,
     } = useContestModal();
 
-    const MainTabeHeads = ['Serial', 'Title', 'Event Date', 'Total Participated Teams', 'Top Team Rank', universityShortName + ' Team details'];
-    const contestDetailsDiv = 'contest-details-table';
+
 
     return (
         <TableContainer>
             <Table variant='simple'>
                 <TableCaption></TableCaption>
-                <TableHeader headers={MainTabeHeads} />
+                <TableHeader headers={MAIN_TABLE_HEADS} />
                 <Tbody>
                     <TableRows contestData={contestData} universityShortName={universityShortName} onOpen={onOpen} />
                 </Tbody>
@@ -41,7 +41,7 @@ const ContestSummaryTable = ({ contestData, universityShortName }: ContestSummar
                 contestDetails={selectedContestDetails}
                 contestStandingLink={selectedContestStandingLink}
                 contestTitle={selectedContestTitle}
-                contestDetailsDiv={contestDetailsDiv}
+                contestDetailsDiv={CONTEST_DETAILS_DIV}
             />
         </TableContainer>
     );

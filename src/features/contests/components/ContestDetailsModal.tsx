@@ -2,8 +2,9 @@ import { Button, ButtonGroup, Modal, ModalContent, ModalFooter } from '@chakra-u
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { handleCaptureClick } from '../../../common/utils/DownloadImage';
-import TableDataRow from '../../../model/TableDataRow';
+import TableDataRow from '../interfaces/tableDataRow.interface';
 import ModalTablesBody from './ModalTablesBody';
+import { FULL_STANDINGS, DOWNLOAD } from '../constants/contestDetailsModal.constant';
 
 interface ContestDetailsModalProps {
     isOpen: boolean;
@@ -15,7 +16,15 @@ interface ContestDetailsModalProps {
     contestDetailsDiv: string;
 }
 
-const ContestDetailsModal = ({ isOpen, onClose, overlay, contestDetails, contestStandingLink, contestTitle, contestDetailsDiv }: ContestDetailsModalProps) => {
+const ContestDetailsModal = ({
+    isOpen,
+    onClose,
+    overlay,
+    contestDetails,
+    contestStandingLink,
+    contestTitle,
+    contestDetailsDiv
+}: ContestDetailsModalProps) => {
     return (
         <Modal isCentered isOpen={isOpen} onClose={onClose} size='5xl'>
             {overlay}
@@ -26,9 +35,9 @@ const ContestDetailsModal = ({ isOpen, onClose, overlay, contestDetails, contest
                 <ModalFooter>
                     <ButtonGroup>
                         <Link to={contestStandingLink} target="_blank" rel="noopener noreferrer">
-                            <Button colorScheme='blue'>Full Standings</Button>
+                            <Button colorScheme='blue'>{FULL_STANDINGS}</Button>
                         </Link>
-                        <Button colorScheme='green' onClick={() => handleCaptureClick(contestTitle, contestDetailsDiv)}>Download</Button>
+                        <Button colorScheme='green' onClick={() => handleCaptureClick(contestTitle, contestDetailsDiv)}>{DOWNLOAD}</Button>
                     </ButtonGroup>
                 </ModalFooter>
             </ModalContent>

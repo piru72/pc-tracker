@@ -1,7 +1,7 @@
 import { Button, Td, Tr } from '@chakra-ui/react';
 import { formatDate } from '../../../common/utils/helpers';
-import ContestModel from '../../../model/Contest';
-import TableDataRow from '../../../model/TableDataRow';
+import ContestModel from '../../../common/interfaces/contest.interface';
+import TableDataRow from '../interfaces/tableDataRow.interface';
 
 interface TableRowsProps {
     contestData: ContestModel[];
