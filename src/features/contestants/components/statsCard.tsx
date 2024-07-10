@@ -1,4 +1,5 @@
 import { Box, Flex, Stat, StatNumber, useColorModeValue } from '@chakra-ui/react'
+import { CONTEST_COUNT } from '../constants/statsCard.constant'
 
 interface StatsCardProps {
     name: string
@@ -20,7 +21,7 @@ function StatCard(props: StatsCardProps) {
                         {name}
                     </StatNumber>
                     <StatNumber fontSize={'xl'} fontWeight={'medium'} textAlign={'left'}>
-                        Contest Count : {totaParticipatedContest}
+                        {CONTEST_COUNT} {totaParticipatedContest}
                     </StatNumber>
                 </Box>
             </Flex>

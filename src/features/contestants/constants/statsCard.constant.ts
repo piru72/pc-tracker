@@ -1,0 +1,1 @@
+export const CONTEST_COUNT = "Contest Count : "

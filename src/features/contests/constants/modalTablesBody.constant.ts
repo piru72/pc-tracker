@@ -1,0 +1,1 @@
+export const MODAL_TABLE_HEADS = ['Rank', 'Team Name', 'Total Solved', 'Penalty', 'Team Members']

@@ -1,8 +1,7 @@
-
-
+import { Box, ButtonGroup, Divider, Heading, ModalFooter, Table, TableCaption, TableContainer, Tbody, Td, Text, Th, Thead, Tr } from '@chakra-ui/react';
 import React from 'react';
-import { Box, ButtonGroup, Divider, Heading, ModalFooter, Table, TableCaption, TableContainer, Tbody, Th, Thead, Tr, Text, Td } from '@chakra-ui/react';
 import { formatDate } from '../../../common/utils/helpers';
+import { MODAL_TABLE_HEADS, NATIONAL_PROFILE_OF_CONTESTANT } from '../constants/modalTable.constant';
 
 
 interface ModalContentExtendedProps {
@@ -12,7 +11,7 @@ interface ModalContentExtendedProps {
 }
 
 const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantName, contestantData }) => {
-    const ModalTableHeads = ['Contest Name', 'Date', 'Rank', 'Team Name']
+
 
 
     //console.log("From the modal", contestantData);
@@ -22,7 +21,7 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
         <>
             <Box padding={5} >
                 <Heading as='h1' size='xl' noOfLines={1} mb={4}>
-                    National Contest Profile of
+                    {NATIONAL_PROFILE_OF_CONTESTANT}
                     <Text as={'span'} color={'blue.400'}>
                         {' ' + contestantName}
                     </Text>
@@ -33,7 +32,7 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                         <TableCaption></TableCaption>
                         <Thead>
                             <Tr>
-                                {ModalTableHeads.map((head, index) => (
+                                {MODAL_TABLE_HEADS.map((head, index) => (
                                     <Th key={index} textAlign='center'>{head}</Th>
                                 ))}
                             </Tr>
@@ -41,7 +40,7 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                         <Tbody>
                             {
                                 Array.from(contestantData).map((contest: any, index) => {
-                                    
+
                                     let contestTitle = contest.contestTitle;
                                     let words = contestTitle.split(' ');
                                     let firstLine = '';
@@ -56,13 +55,13 @@ const ModalContentExtended: React.FC<ModalContentExtendedProps> = ({ contestantN
                                         }
                                     }
 
-                                    
+
                                     let universityTeams = contest.universityTeams;
                                     let teamName = '';
                                     let rank = 0;
-                                    
-                                    
-                                    
+
+
+
 
                                     universityTeams.forEach((team: any) => {
                                         let teamMembers = team.teamMembers;
