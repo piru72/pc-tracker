@@ -31,12 +31,14 @@ cd pc-tracker
 docker compose up -d
 ```
 
-# Features
+# Key Features
 
-- Shows the summary of the contests.
-- Shows the details of the contests for downloading.
-- Shows the list of contestants.
-- Shows the details of the contestants.
+The following key features are available in the project:
+
+- Summary of the contests.
+- Details of the contests for downloading.
+- List of contestants.
+- Details of the contestants.
 
 # License
 
