@@ -24,3 +24,5 @@ package-lock.json
 *.sln
 *.sw?
 __pycache__
+
+.env
